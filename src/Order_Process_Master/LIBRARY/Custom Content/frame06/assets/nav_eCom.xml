@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/assets/nav_eCom" itemID="4e79e49c-0000062e" lastModified="1316611228" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="nav_eCom">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Custom Content/image_graphics/orderSource_eCom.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" ty="42.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="498" y="220.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText selected="true" width="55.1" height="21.6" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="142.4" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>eCOM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#2B2B2B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px" selected="true" centerPoint3DX="121.2" centerPoint3DY="12.8">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="109.4" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

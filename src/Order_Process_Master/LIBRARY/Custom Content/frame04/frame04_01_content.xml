@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_01_content" itemID="4e70e8b1-0000079f" lastModified="1321632145" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="frame04_01_content">
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="476.95" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="514" ty="202"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="539.75" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Channel Overview</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="416.95" height="68" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="514" ty="262"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The New Balance order process begins with the acceptance of the order from the customer, and is not considered complete until:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="361.95" height="114" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="556" ty="344"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Receives the products;&#xD;&#xD;Determines the order is accurate and complete;&#xD;&#xD;Receives invoice and pays New Balance.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="529.2" centerPoint3DY="355.05">
+                  <matrix>
+                    <Matrix tx="520.5" ty="348"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="529.2" centerPoint3DY="402.05">
+                  <matrix>
+                    <Matrix tx="520.5" ty="395"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="529.2" centerPoint3DY="447">
+                  <matrix>
+                    <Matrix tx="520.5" ty="439.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="img" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/stockroom_dude.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

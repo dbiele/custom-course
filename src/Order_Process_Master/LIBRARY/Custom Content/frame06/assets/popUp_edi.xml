@@ -1,0 +1,183 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/assets/popUp_edi" itemID="4e79eba8-0000039c" lastModified="1321633649" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="popUp_edi">
+      <layers>
+        <DOMLayer name="btn close" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assets_support/btn_close_pop_up_short" name="close_btn" centerPoint3DX="528.7" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix tx="488.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="11.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LEARN MORE" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMComponentInstance libraryItemName="Custom Content/did_you_know/dyk_pop_up" name="dyk_popUp" selected="true" centerPoint3DX="339.45" centerPoint3DY="323.25" uniqueID="4">
+                  <matrix>
+                    <Matrix tx="165.95" ty="185.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.5" y="137.5"/>
+                  </transformationPoint>
+                  <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath=''>
+</component>
+]]></dataBindingXML>
+                  <parametersAsXML><![CDATA[   <property id="componentText">
+      <Inspectable name="WindowText" variable="componentText" category="" verbose="0" defaultValue="&lt;li&gt;In 2009 nearly 453,000 customer purchase orders totaling 20 million units were funneled thru EDI before shipping out to over 500 different domestic customers.&lt;/li&gt;&lt;li&gt;585,000 invoices for shipments sent via EDI.&lt;/li&gt;&lt;li&gt;2010 – 594,000 Orders, 559 Bill-to’s, 741,000 invoices, 24M units.&lt;/li&gt;&lt;li&gt;2011 – 610,000+ orders, 600 Bill-to’s, and approx 750,000 invoices, 24M Units.&lt;/li&gt;" type="String"/>
+   </property>
+]]></parametersAsXML>
+                </DOMComponentInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="495.95" height="121.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EDI, Electronic Data Interchange, is a standardized method of exchanging data which reduces the time and resources needed to process data.&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Using EDI, a single point of entry method, allows inventory &#xD;to be placed in the system from the submission of the PO &#xD;eliminating the potential for data entry error.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.993804931640625" d="0.993804931640625" tx="246.9" ty="411.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112" y="21.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NATIONAL ACCOUNT SPECIALIST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_csr.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="171.6" ty="233.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="191.2" height="136.85" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.4" ty="285.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>All New Balance accounts can use EDI, but it is most commonly used for large volume accounts. National Account Specialist will manage EDI orders once they are in JBA.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hr" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!488 4328/10628 4328"/>
+                    <Edge cubics="!488 4328(;488,4328 10628,4328 10628,4328q488 4328 10628 4328);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="482" height="26.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="32"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EDI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#C82032"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.4" ty="246.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WHO USES EDI?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="250" centerPoint3DY="258.85">
+                  <matrix>
+                    <Matrix a="112.359619140625" d="95.6026763916016" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="20" blurY="20" strength="0.25"/>
+                    <DropShadowFilter angle="90" distance="0" quality="3" strength="0.5"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

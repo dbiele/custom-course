@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_11_content" itemID="4e81de26-00000b54" lastModified="1321647025">
+  <timeline>
+    <DOMTimeline name="frame11_11_content" currentFrame="4">
+      <layers>
+        <DOMLayer name="labels" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="hilite_amount" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HILIGHTS" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="602.05" centerPoint3DY="287.15">
+                  <matrix>
+                    <Matrix a="-0.882980346679688" b="-0.465866088867188" c="0.465866088867188" d="-0.882980346679688" tx="626.8" ty="447.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.45" y="124"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="453.95" centerPoint3DY="333.4">
+                  <matrix>
+                    <Matrix a="0.400070190429688" d="0.163543701171875" tx="429.05" ty="280.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.6" y="114.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/os_example_release.png">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="356.9" ty="117.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="339" y="274.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="908.95" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A Release order type(1) is entered into the system  to pull from the contract which triggers the supply to drop to pick and then ship.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

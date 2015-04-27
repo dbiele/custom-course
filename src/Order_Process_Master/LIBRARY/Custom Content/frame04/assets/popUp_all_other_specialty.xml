@@ -1,0 +1,241 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/popUp_all_other_specialty" itemID="4e77999e-000026db" lastModified="1321632584">
+  <timeline>
+    <DOMTimeline name="popUp_all_other_specialty">
+      <layers>
+        <DOMLayer name="btn close" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assets_support/btn_close_pop_up_short" name="close_btn" centerPoint3DX="638.5" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix tx="598"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="11.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="588" height="41.1" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>This channel is comprised of catalog, internet, military, regional accounts and other independent stores.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="245.95" height="36.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="184"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Consumers range from infants and kids to teens and college students.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="326" height="38.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="312" ty="184"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Balance provides assortments that match the consumers who shop with each retailer. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="582" height="88.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="411.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>• Army/Air Force Exchange&#xD;• Cabelas&#xD;• Mason Shoe&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="314.95" height="59.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="312" ty="277.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Balance partners with these retailers to provide services such as consumer drop ship and floor-ready merchandise.  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hr" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5840 3060/5840 6860!488 2560|12888 2560!6200 4716|12600 4716"/>
+                    <Edge cubics="!488 2560(;488,2560 12888,2560 12888,2560q488 2560 12888 2560);"/>
+                    <Edge cubics="!5840 3060(;5840,3060 5840,6860 5840,6860q5840 3060 5840 6860);"/>
+                    <Edge cubics="!6200 4716(;6200,4716 12600,4716 12600,4716q6200 4716 12600 4716);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="482" height="26.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="32"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ALL OTHER SPECIALTY</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#C82032"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="240" height="19.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="155"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WHO IS THE CONSUMER?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="312" ty="155"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DISTINGUISHING FACTORS:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="382.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ACCOUNT EXAMPLES:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="312" ty="248.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ADDED SERVICES:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="box btm" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E2F1F9"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!488 9836|488 7376!488 7376|12888 7376!12888 7376|12888 9836!12888 9836|488 9836"/>
+                    <Edge cubics="!488 9836(;488,9836 488,7376 488,7376q488 9836 488 7376);"/>
+                    <Edge cubics="!12888 7376(12888,7376;12888,7376 12888,9836 12888,9836q12888 7376 12888 9836);"/>
+                    <Edge cubics="!488 7376(488,7376;488,7376 12888,7376 12888,7376q488 7376 12888 7376);"/>
+                    <Edge cubics="!12888 9836(12888,9836;12888,9836 488,9836 488,9836q12888 9836 488 9836)488,9836;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="250" centerPoint3DY="258.85">
+                  <matrix>
+                    <Matrix a="133.762115478516" d="103.907379150391" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="20" blurY="20" strength="0.25"/>
+                    <DropShadowFilter angle="90" distance="0" quality="3" strength="0.5"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

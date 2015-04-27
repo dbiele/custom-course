@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03/icon_nationalAccountSpecialist" itemID="4e779b5c-0000290d" lastModified="1316525173" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="icon_nationalAccountSpecialist">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="224" height="42.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="98.4" ty="228.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NATIONAL ACCOUNT SPECIALISTS </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px" centerPoint3DX="210.4" centerPoint3DY="292.4">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="197.9" ty="279.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_csr.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

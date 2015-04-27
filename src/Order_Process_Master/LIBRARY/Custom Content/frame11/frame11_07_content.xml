@@ -1,0 +1,221 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_07_content" itemID="4e81de0b-00000b4c" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame11_07_Content" linkageClassName="frame11_07_content" lastModified="1323278152" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="frame11_07_content">
+      <layers>
+        <DOMLayer name="labels" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="hilite_amount" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" name="hilite_date" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="6" name="popUp_note" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="6" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onComplete();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="popUpNote" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/frame11_07_popUp_note_mc" centerPoint3DX="261.75" centerPoint3DY="533.95">
+                  <matrix>
+                    <Matrix tx="14.6" ty="465.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="247.3" y="67.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HILIGHTS" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="758.8" centerPoint3DY="306">
+                  <matrix>
+                    <Matrix a="-0.487274169921875" b="0.800979614257813" c="-0.800979614257813" d="-0.487274169921875" tx="906.2" ty="290.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.4" y="123.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="838.1" centerPoint3DY="228.75">
+                  <matrix>
+                    <Matrix a="-0.118743896484375" b="0.92999267578125" c="-0.92999267578125" d="-0.118743896484375" tx="967.1" ty="154.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.3" y="124.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="729.95" centerPoint3DY="465.35">
+                  <matrix>
+                    <Matrix a="0.389617919921875" d="0.389617919921875" tx="721.05" ty="386.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.6" y="115"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="856.2" centerPoint3DY="304.25">
+                  <matrix>
+                    <Matrix a="0" b="0.17547607421875" c="-0.718887329101563" d="-3.0517578125e-005" tx="939.25" ty="315.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.6" y="115.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pop up" color="#FF4FFF" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/frame11_07_popUp_note_mc" selected="true" centerPoint3DX="133.05" centerPoint3DY="689.15">
+                  <matrix>
+                    <Matrix tx="-2.6" ty="402.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="93" y="45.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_C/c_start_screen" centerPoint3DX="662" centerPoint3DY="364.45">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="356.9" ty="117.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="339" y="274.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_department_store" centerPoint3DX="167" centerPoint3DY="294.3">
+                  <matrix>
+                    <Matrix ty="223.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="167" y="71"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements>
+                <DOMStaticText width="768.95" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Invision Retail Store places an order for 1,200 shoes through EDI on 5/19 with a request date of 11/01.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

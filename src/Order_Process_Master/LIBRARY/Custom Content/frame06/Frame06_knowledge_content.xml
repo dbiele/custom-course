@@ -1,0 +1,319 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/Frame06_knowledge_content" itemID="4e7a4050-00001594" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame06_Knoweldge_Content" linkageClassName="Frame06_knowledge_content" lastModified="1319124964" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Frame06_knowledge_content" currentFrame="13">
+      <layers>
+        <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" name="correct" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" duration="31" name="incorrect" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="32" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[onStartInteraction();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="incorrect" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMStaticText width="237.15" height="22.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="88" ty="162"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>That's Incorrect.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular copy*" fillColor="#990000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> Try Again.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular copy*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="correct" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMStaticText width="130.55" height="22.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="88" ty="162"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>That's Correct!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="20" bitmapSize="400" face="_Claredon Regular copy*" fillColor="#006600"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="27.45" width="152.3" height="17.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="261" ty="164.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click next to continue</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" size="16" bitmapSize="320" face="_Claredon Regular copy*" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="31" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="check answer" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/btn_checkanswer_wide" name="btn_checkanswer" centerPoint3DX="480.15" centerPoint3DY="554.15">
+                  <matrix>
+                    <Matrix tx="405.15" ty="543.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="30" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4FFFFF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="7" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="7000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.536206" xformPtYOffsetPct="0.784231" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="6000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="6000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="6000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="6000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/knowledge_check_items" centerPoint3DX="505" centerPoint3DY="444.65">
+                  <matrix>
+                    <Matrix tx="40.15" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="464.85" y="134.65"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="33" keyMode="9728">
+              <elements>
+                <DOMStaticText width="84" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="629.15" ty="462"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JBA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" centerPoint3DX="600.15" centerPoint3DY="475">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="585.15" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="133" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="96.15" ty="462"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>eCOM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton1_mc" centerPoint3DX="67.15" centerPoint3DY="475">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="52.15" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="104" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="359.15" ty="462"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B2B</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton2_mc" centerPoint3DX="330.15" centerPoint3DY="475">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="315.15" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="52.95" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="868.15" ty="462"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EDI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton4_mc" centerPoint3DX="839.15" centerPoint3DY="475">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="824.15" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/eCom" centerPoint3DX="132.65" centerPoint3DY="366.2">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="-41.85" ty="288.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249.05" y="110.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/b2b" centerPoint3DX="390.25" centerPoint3DY="365.55">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="220.85" ty="289"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="241.8" y="109.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/jba" centerPoint3DX="640.3" centerPoint3DY="360.9">
+                  <matrix>
+                    <Matrix a="0.545623779296875" d="0.545623779296875" tx="547.8" ty="286"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169.55" y="137.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/edi" centerPoint3DX="879.75" centerPoint3DY="366.7">
+                  <matrix>
+                    <Matrix a="0.690689086914063" d="0.690689086914063" tx="781.5" ty="292.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.25" y="107.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="final assessment text" color="#4F80FF" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="46" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="46000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.513082" xformPtYOffsetPct="1.49849" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Motion_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Rotation_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-87" next="0,-87" previous="0,-87" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,3" next="0,3" previous="0,3" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Rotation_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-33" next="0,-33" previous="0,-33" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="7000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="9000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="13000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="21000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="13000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="21000"/></Property></PropertyContainer><PropertyContainer id="Colors"><PropertyContainer id="Alpha_ColorXform"><Property enabled="1" id="Alpha_Amount" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="7000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="9000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="11000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="13000"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="21000"/></Property></PropertyContainer></PropertyContainer><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/frame06_txt_knowledge_check" matrix3D="0.838670551776886 0 0.544639050960541 0 0.543892621994019 0.052335973829031 -0.837521135807037 0 -0.0285042151808739 0.998629510402679 0.04389264062047 0 -580.70654296875 5740.25634765625 1636.02758789063 1" rotationX="-187" rotationY="-33" rotationZ="-11" centerPoint3DX="300" centerPoint3DY="300">
+                  <transformationPoint>
+                    <Point x="455.95" y="203.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

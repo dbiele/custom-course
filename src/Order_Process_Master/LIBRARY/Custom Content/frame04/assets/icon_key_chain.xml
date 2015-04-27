@@ -1,0 +1,153 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/icon_key_chain" itemID="4e9db879-00000636" lastModified="1318959225">
+  <timeline>
+    <DOMTimeline name="icon_key_chain">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!677 760[668 799 622 776!622 776[#257.12 #301.5 578 759!517 718[487 689 478 648!478 648[466 594 497 521!497 521|546 430"/>
+                    <Edge cubics="!677 760(;671,784 654,793 622,776q677 760Q668 799q622 776);"/>
+                    <Edge cubics="!497 521(;476,569 471,612 478,648q497 521Q466 594q478 648);"/>
+                    <Edge cubics="!517 718(;498,698 484,675 478,648q517 718Q487 689q478 648);"/>
+                    <Edge cubics="!497 521(;497,521 546,430 546,430q497 521 546 430)546,430;"/>
+                    <Edge cubics="!706 760(;717,773 728,790 732,809q706 760Q725 776q732 809);"/>
+                    <Edge cubics="!732 809(;739,849 711,888 661,890q732 809Q738 838q721 864Q696 887q661 890);"/>
+                    <Edge cubics="!661 890(;618,892 570,859 563,820q661 890Q627 891q597 871Q571 851q563 820);"/>
+                    <Edge cubics="!1111 1072(;1111,1072 770,622 770,622p1111 1072q770 622);"/>
+                    <Edge cubics="!390 783(;390,783 702,1240 702,1240q390 783 702 1240);"/>
+                    <Edge cubics="!702 1240(;702,1240 1111,1072 1111,1072q702 1240 1111 1072);"/>
+                    <Edge cubics="!629 685(;629,685 626,685 626,685q629 685 626 685);"/>
+                    <Edge cubics="!628 684(;628,684 629,685 629,685q628 684 629 685);"/>
+                    <Edge cubics="!470 749(;470,749 390,783 390,783q470 749 390 783);"/>
+                    <Edge cubics="!563 820(;561,809 561,800 561,793q563 820Q560 803q561 793);"/>
+                    <Edge cubics="!674 743(;686,747 698,753 706,760q674 743Q693 749q706 760);"/>
+                    <Edge cubics="!630 741(;647,740 661,742 674,743q630 741Q654 740q674 743);"/>
+                    <Edge cubics="!575 762(;560,758 541,751 522,741q575 762 522 741);"/>
+                    <Edge cubics="!509 733(;509,733 470,749 470,749q509 733 470 749);"/>
+                    <Edge cubics="!561 793(;561,778 567,770 575,762q561 793Q562 773q575 762);"/>
+                    <Edge cubics="!522 741(;517,740 512,737 509,733q522 741Q515 737q509 733);"/>
+                    <Edge cubics="!626 685(;626,685 509,733 509,733q626 685 509 733);"/>
+                    <Edge cubics="!575 762(;576,761 577,760 578,759q575 762Q576 760q578 759);"/>
+                    <Edge cubics="!578 759(;589,749 606,743 630,741q578 759Q594 744q630 741);"/>
+                    <Edge cubics="!622 776(;607,771 592,766 578,759q622 776Q599 769q578 759);"/>
+                    <Edge cubics="!770 622(;770,622 628,684 628,684q770 622 628 684);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_key" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_key" centerPoint3DX="63.6" centerPoint3DY="18">
+                  <matrix>
+                    <Matrix a="-0.914108276367188" b="3.0517578125e-005" c="3.0517578125e-005" d="0.914108276367188" tx="94.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.8" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0067596435546875" b="-0.049163818359375" c="0.049163818359375" d="0.0067596435546875" tx="35.05" ty="67.3"/>
+                        </matrix>
+                        <GradientEntry color="#E72539" ratio="0.470588235294118"/>
+                        <GradientEntry color="#C92133" ratio="0.501960784313725"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!706 734[728 747 740 779!740 779[749 806 737 835!737 835[716 861 681 870!681 870[648 876 615 860!615 860[586 844 573 816!573 816[569 799 568 789!568 789[565 769 577 756!577 756[577 754 579 752!579 752[593 735 628 726!628 726[651 722 672
+ 722!672 722[692 725 706 734!616 672/507 738!507 738/472 759!472 759/397 805!397 805|775 1209!775 1209|1154 981!1154 981|748 588!748 588|618 671!618 671|619 672!619 672|616 672"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!507 738[514 740 521 743!521 743[550 753 577 756"/>
+                    <Edge cubics="!706 734(;719,745 733,761 740,779q706 734Q728 747q740 779);"/>
+                    <Edge cubics="!740 779(;752,817 731,860 681,870q740 779Q749 806q737 835Q716 861q681 870);"/>
+                    <Edge cubics="!681 870(;639,878 586,853 573,816q681 870Q648 876q615 860Q586 844q573 816);"/>
+                    <Edge cubics="!1154 981(;1154,981 748,588 748,588p1154 981q748 588);"/>
+                    <Edge cubics="!397 805(;397,805 775,1209 775,1209q397 805 775 1209);"/>
+                    <Edge cubics="!775 1209(;775,1209 1154,981 1154,981q775 1209 1154 981);"/>
+                    <Edge cubics="!619 672(;619,672 616,672 616,672q619 672 616 672);"/>
+                    <Edge cubics="!618 671(;618,671 619,672 619,672q618 671 619 672);"/>
+                    <Edge cubics="!472 759(;472,759 397,805 397,805q472 759 397 805);"/>
+                    <Edge cubics="!573 816(;571,805 569,796 568,789q573 816Q569 799q568 789);"/>
+                    <Edge cubics="!672 722(;684,724 697,728 706,734q672 722Q692 725q706 734);"/>
+                    <Edge cubics="!628 726(;645,723 659,723 672,722q628 726Q651 722q672 722);"/>
+                    <Edge cubics="!507 738(;507,738 472,759 472,759q507 738 472 759);"/>
+                    <Edge cubics="!568 789(;566,774 570,765 577,756q568 789Q565 769q577 756);"/>
+                    <Edge cubics="!521 743(;516,743 511,740 507,738q521 743Q514 740q507 738);"/>
+                    <Edge cubics="!616 672(;616,672 507,738 507,738q616 672 507 738);"/>
+                    <Edge cubics="!577 756(;577,755 578,753 579,752q577 756Q577 754q579 752);"/>
+                    <Edge cubics="!579 752(;589,741 605,732 628,726q579 752Q593 735q628 726);"/>
+                    <Edge cubics="!748 588(;748,588 618,671 618,671q748 588 618 671);"/>
+                    <Edge cubics="!521 743(;540,750 559,754 577,756q521 743Q550 753q577 756);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!546 430[600 356 610 433!610 433|618 488!618 504|668 665"/>
+                    <Edge cubics="!618 504(;618,504 668,665 668,665q618 504 668 665);"/>
+                    <Edge cubics="!610 433(;610,433 618,488 618,488q610 433 618 488)618,488;"/>
+                    <Edge cubics="!546 430(;582,381 603,382 610,433q546 430Q600 356q610 433);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

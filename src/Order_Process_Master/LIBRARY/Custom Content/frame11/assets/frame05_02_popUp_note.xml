@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/frame05_02_popUp_note" itemID="4e85bee7-000004b5" lastModified="1317388094" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="frame05_02_popUp_note">
+      <layers>
+        <DOMLayer name="popUp" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/calloutBox_with_shdw" selected="true" centerPoint3DX="163.8" centerPoint3DY="78.25">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.35" y="94.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="462.25" height="70.15" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" tx="26.8" ty="40.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     emember, each order type may have a different order source, where the sales order originated. We will discuss that further in the next lesson.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="18" bitmapSize="360" face="_Claredon Regular*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="21.35" height="28.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25.2" ty="35.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>R</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="26" bitmapSize="520" face="_Claredon Regular*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

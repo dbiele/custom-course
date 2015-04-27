@@ -1,0 +1,166 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/frame06_01_content" itemID="4e789790-00000502" lastModified="1318961231" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="frame06_01_content" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;536&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="860.95" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="539.75" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Order Source</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="457" height="45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Now that you are familiar with New Balance order types, let’s discuss where the sales order originated, the order source.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="457" height="45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="262.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Depending on your role and department, you will use the order source most appropriate.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="502" height="86" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="78" ty="161.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Was it phoned in?&#xD;Did the sales rep enter the order?&#xD;Did the account use B2B?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="10" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="174.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="167"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="207.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="200"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="238.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="231"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icons" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="375.55" ty="538.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SALES REPRESENTATIVE </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_sales.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="269.1" ty="324.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.6"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="718.45" ty="538.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NATIONAL ACCOUNT SPECIALIST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_csr.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="620.05" ty="309.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.6"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="47.5" ty="538.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ACCOUNT SERVICE&#xD;REPRESENTATIVE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_dealerAccounts.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-56.9" ty="320.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

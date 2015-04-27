@@ -1,0 +1,219 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/assets/popUp_jba" itemID="4e7a0823-000004bc" lastModified="1321633574" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="popUp_jba">
+      <layers>
+        <DOMLayer name="btn close" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assets_support/btn_close_pop_up_short" name="close_btn" centerPoint3DX="528.7" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix tx="488.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="11.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LEARN MORE" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E2F1F9"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!5009 7623|5009 9028!5009 9028|713 9028!713 9028|713 7623!713 7623|5009 7623!5936 9028|5936 7623!5936 7623|10689 7623!10689 7623|10689 9028!10689 9028|5936 9028"/>
+                    <Edge cubics="!713 9028(;713,9028 713,7623 713,7623q713 9028 713 7623);"/>
+                    <Edge cubics="!5936 9028(;5936,9028 5936,7623 5936,7623q5936 9028 5936 7623);"/>
+                    <Edge cubics="!5936 7623(5936,7623;5936,7623 10689,7623 10689,7623q5936 7623 10689 7623);"/>
+                    <Edge cubics="!10689 7623(10689,7623;10689,7623 10689,9028 10689,9028q10689 7623 10689 9028);"/>
+                    <Edge cubics="!10689 9028(10689,9028;10689,9028 5936,9028 5936,9028q10689 9028 5936 9028)5936,9028;"/>
+                    <Edge cubics="!5009 7623(5009,7623;5009,7623 5009,9028 5009,9028q5009 7623 5009 9028);"/>
+                    <Edge cubics="!713 7623(713,7623;713,7623 5009,7623 5009,7623q713 7623 5009 7623);"/>
+                    <Edge cubics="!5009 9028(5009,9028;5009,9028 713,9028 713,9028q5009 9028 713 9028)713,9028;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="485.95" height="105.75" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JBA is New Balance’s Enterprise Resource Planning (ERP) system. This system is used for order entry, inquiry and management in the Customer Services department. Orders that are placed via EDI, eCom and B2B flow into JBA. This allows our service department to help with order inquiry and/or order management.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_dealerAccounts.png">
+                  <matrix>
+                    <Matrix a="0.300003051757813" d="0.300003051757813" tx="292.3" ty="241.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="92.1" ty="349.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NATIONAL ACCOUNT SPECIALIST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_csr.png">
+                  <matrix>
+                    <Matrix a="0.300003051757813" d="0.300003051757813" tx="39.9" ty="240.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText selected="true" width="206" height="43.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="310" ty="391.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Account Service Representatives primarily use it for order entry (E order types), available inventory and order inquiry.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" bitmapSize="240" face="_Calibri Regular*" fillColor="#2B2B2B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="350.15" ty="348.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ACCOUNT SERVICE&#xD;REPRESENTATIVE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="195.15" height="43.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="48.85" ty="391.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>National Account Specialists use JBA primarily for order management and can use it for order entry.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" face="_Calibri Regular*" fillColor="#2B2B2B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hr" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!488 3787/10628 3787"/>
+                    <Edge cubics="!488 3787(;488,3787 10628,3787 10628,3787q488 3787 10628 3787);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="482" height="26.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="32"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JBA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#C82032"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.4" ty="209.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>WHO USES JBA?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="250" centerPoint3DY="258.85">
+                  <matrix>
+                    <Matrix a="112.359619140625" d="95.6026763916016" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="20" blurY="20" strength="0.25"/>
+                    <DropShadowFilter angle="90" distance="0" quality="3" strength="0.5"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

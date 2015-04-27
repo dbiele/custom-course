@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03a/frame03a_content" itemID="4e6120a2-0000068a" lastModified="1318961667">
+  <timeline>
+    <DOMTimeline name="frame03a_content">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="860.95" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="539.75" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Balance Associates and Partners</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="416.95" height="436" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Balance has a history of 100 years of enduring performance and is still running strong today. Part of what makes New Balance so unique is our commitment to making products that not only provide performance, but also superior fit and comfort. The same attention that is placed on our athletic shoes and apparel is also given to our associates and partners.&#xD; &#xD;Our designated sales and service representatives work together to meet the diverse product needs of each New Balance customer.   &#xD;&#xD;As we move through the course, we’ll be focusing on three key roles:  Account Service Representative, National Account Specialist and Sales Representative.&#xD;&#xD;Pay close attention to your role and the collective tasks and steps needed to fulfill your customers’ order.  &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/nb_shoe_flipAngle.png">
+                  <matrix>
+                    <Matrix a="0.979080200195313" b="0.203460693359375" c="-0.203460693359375" d="0.979080200195313" tx="495.9" ty="28.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="337.25" y="260"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

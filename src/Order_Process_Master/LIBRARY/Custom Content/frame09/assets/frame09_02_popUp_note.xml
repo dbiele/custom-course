@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame09/assets/frame09_02_popUp_note" itemID="4e85c340-000004f4" lastModified="1317389120">
+  <timeline>
+    <DOMTimeline name="frame09_02_popUp_note">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/calloutBox_with_shdw" selected="true" centerPoint3DX="163.8" centerPoint3DY="78.25">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" ty="1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.35" y="94.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="418.45" height="70.3" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" tx="42.6" ty="40.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     llocation begins 21 days for orders with incoming supply and shows allocated right away for final supply.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="18" bitmapSize="360" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="17.55" height="29.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="41" ty="35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="26" bitmapSize="520" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

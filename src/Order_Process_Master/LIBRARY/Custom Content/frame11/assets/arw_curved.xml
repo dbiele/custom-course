@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/arw_curved" itemID="4e84b3d2-000005df" lastModified="1317319830">
+  <timeline>
+    <DOMTimeline name="arw_curved">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0420684814453125" b="0.05987548828125" c="-0.076202392578125" d="-0.0535430908203125" tx="65.5" ty="139.35"/>
+                        </matrix>
+                        <GradientEntry color="#FF9900" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0117950439453125" b="0.116485595703125" c="-0.15142822265625" d="0.0153350830078125" tx="81.1" ty="111.25"/>
+                            </matrix>
+                            <GradientEntry color="#FF9900" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1174.5 4391.5[#487.BF #1106.28 1145 4323!1145 4323[917 3779 903 3176!903 3176[888 2490 1176 2051!1176 2051[1516 1533 2223 1472!2223 1472|2026 2187!2026 2187[2193 1981 2501 1741!2501 1741[3116 1262 3818 1093!3818 1093[3116 924 2501 445
+!2501 445[2193 206 2026 0!2026 0|2223 714!2223 714[910 816 357 1495!357 1495[-108 2067 32 2932!32 2932[#4A.84 #C77.F9 170 3451.5"/>
+                    <Edge fillStyle0="1" edges="
+!170 3451.5[#D3.7F #DEC.4C 263 3677!263 3677[425 4031 657 4323!657 4323[888 4614 1141 4783!1141 4783[1404 4959 1641 4969!1641 4969[#5C9.CA #1327.71 1339 4693!1339 4693[#538.57 #1251.16 1333.5 4685!1333.5 4685|1174.5 4391.5"/>
+                    <Edge cubics="!2026 2187(;2026,2187 2694,1363 3818,1093q2026 2187Q2193 1981q2501 1741Q3116 1262q3818 1093);"/>
+                    <Edge cubics="!3818 1093(;2694,823 2026,0 2026,0q3818 1093Q3116 924q2501 445Q2193 206q2026 0);"/>
+                    <Edge cubics="!2026 0(;2026,0 2223,714 2223,714q2026 0 2223 714);"/>
+                    <Edge cubics="!2223 714(;6,886 -253,2304 170,3452q2223 714Q910 816q357 1495Q-108 2067q32 2932Q75 3192q170 3452);"/>
+                    <Edge cubics="!1175 4392(;736,3439 659,1608 2223,1472q1175 4392 1145 4323Q917 3779q903 3176Q888 2490q1176 2051Q1516 1533q2223 1472);"/>
+                    <Edge cubics="!2223 1472(;2223,1472 2026,2187 2026,2187q2223 1472 2026 2187);"/>
+                    <Edge cubics="!170 3452(;471,4267 1108,4947 1641,4969q170 3452 263 3677Q425 4031q657 4323Q888 4614q1141 4783Q1404 4959q1641 4969);"/>
+                    <Edge cubics="!1175 4392(;1175,4392 1334,4685 1334,4685q1175 4392 1334 4685);"/>
+                    <Edge cubics="!1339 4693(;1337,4690 1335,4688 1334,4685q1339 4693Q1336 4689q1334 4685);"/>
+                    <Edge cubics="!1641 4969(;1535,4925 1434,4833 1339,4693q1641 4969Q1482 4903q1339 4693);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

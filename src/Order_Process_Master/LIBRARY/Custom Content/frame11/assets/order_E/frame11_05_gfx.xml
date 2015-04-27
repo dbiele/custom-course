@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/order_E/frame11_05_gfx" itemID="4e833052-00000aea" lastModified="1317320835" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="frame11_05_gfx">
+      <layers>
+        <DOMLayer name="arw" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" selected="true" centerPoint3DX="-13.15" centerPoint3DY="-294.95">
+                  <matrix>
+                    <Matrix a="-0.487274169921875" b="0.800979614257813" c="-0.800979614257813" d="-0.487274169921875" tx="134.25" ty="-310.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.35" y="124.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="-53" centerPoint3DY="-115.6">
+                  <matrix>
+                    <Matrix a="0.511489868164063" d="0.511489868164063" tx="-73.45" ty="-208.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.65" y="114.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/E__0011_step12_desp.png">
+                  <matrix>
+                    <Matrix tx="-518" ty="-323.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

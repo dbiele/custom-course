@@ -1,0 +1,188 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/assets/order_flow_chevron_complete" itemID="4e7b6968-00001148" lastModified="1357820889" lastUniqueIdentifier="26">
+  <timeline>
+    <DOMTimeline name="order_flow_chevron_complete">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/chevron" selected="true" centerPoint3DX="145.05" centerPoint3DY="41">
+                  <matrix>
+                    <Matrix tx="38.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107" y="41"/>
+                  </transformationPoint>
+                  <filters>
+                    <GradientGlowFilter angle="90" blurX="25" blurY="25" quality="3" strength="0.75" type="outer">
+                      <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                      <GradientEntry color="#507B8D" ratio="1"/>
+                    </GradientGlowFilter>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/chevron" selected="true" centerPoint3DX="332.4" centerPoint3DY="41">
+                  <matrix>
+                    <Matrix tx="225.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107" y="41"/>
+                  </transformationPoint>
+                  <filters>
+                    <GradientGlowFilter angle="90" blurX="25" blurY="25" quality="3" strength="0.75" type="outer">
+                      <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                      <GradientEntry color="#507B8D" ratio="1"/>
+                    </GradientGlowFilter>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/chevron" selected="true" centerPoint3DX="557.75" centerPoint3DY="41">
+                  <matrix>
+                    <Matrix tx="450.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107" y="41"/>
+                  </transformationPoint>
+                  <filters>
+                    <GradientGlowFilter angle="90" blurX="25" blurY="25" quality="3" strength="0.75" type="outer">
+                      <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                      <GradientEntry color="#507B8D" ratio="1"/>
+                    </GradientGlowFilter>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/chevron" selected="true" centerPoint3DX="761.1" centerPoint3DY="41">
+                  <matrix>
+                    <Matrix tx="654.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107" y="41"/>
+                  </transformationPoint>
+                  <filters>
+                    <GradientGlowFilter angle="90" blurX="25" blurY="25" quality="3" strength="0.75" type="outer">
+                      <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                      <GradientEntry color="#507B8D" ratio="1"/>
+                    </GradientGlowFilter>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="114.25" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="112.75" ty="19.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BOOKING&#xD;LEAD TIME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" selected="true" centerPoint3DX="91.05" centerPoint3DY="29.8">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="80.7" ty="19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.55" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="150.8" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="304.75" ty="19.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RESERVATION&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" selected="true" centerPoint3DX="283.05" centerPoint3DY="29.8">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="272.7" ty="19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.55" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="150.8" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="520.75" ty="19.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ALLOCATION&#xD;PICK</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" selected="true" centerPoint3DX="499.05" centerPoint3DY="29.8">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="488.7" ty="19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.55" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="150.8" height="19.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="733.75" ty="19.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SHIPPING</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" selected="true" centerPoint3DX="712.05" centerPoint3DY="29.8">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="701.7" ty="19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.55" y="29.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_truck" centerPoint3DX="781.05" centerPoint3DY="131.65">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="683.3" ty="76.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="279.3" y="156.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_shoeBox" centerPoint3DX="332.3" centerPoint3DY="155.2">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="198.25" ty="81.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="383" y="210.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_monitorNB" centerPoint3DX="126.7" centerPoint3DY="126.55">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" ty="64.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362" y="176"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_arw_circ_point" centerPoint3DX="570.55" centerPoint3DY="135.15">
+                  <matrix>
+                    <Matrix a="0.349990844726563" d="0.349990844726563" tx="469.05" ty="75.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="290" y="170.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

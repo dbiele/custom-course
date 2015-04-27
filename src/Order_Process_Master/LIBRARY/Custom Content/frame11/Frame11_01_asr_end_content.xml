@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/Frame11_01_asr_end_content" itemID="4e84d718-00001b29" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame11_01_ASR_Content" linkageClassName="Frame11_01_asr_end_content" lastModified="1318961673" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Frame11_01_asr_end_content">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="760.95" height="76.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="380.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Now that you’ve walked through one example of an order flow process within New Balance as a Account Service Representative, let’s review some frequently asked questions.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="22" bitmapSize="440" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_dealerAccounts.png">
+                  <matrix>
+                    <Matrix tx="98.95" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="744.95" height="50.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="482.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>If you would like to see additional examples of the order flow process as an alternate job role, click the button to learn more.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="22" bitmapSize="440" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-learnMore" name="learnmore_btn" selected="true" centerPoint3DX="174.5" centerPoint3DY="574.95">
+                  <matrix>
+                    <Matrix tx="143" ty="564.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

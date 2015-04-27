@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_03_content" itemID="4e81ddef-00000b44" lastModified="1317393847" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="frame11_03_content">
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="495" height="46.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="393.95" ty="47"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Since the inventory is available for Kelly right away, the product was immediately allocated.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="20" bitmapSize="400" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="img" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/frame11_03_gfx" matrix3D="0.992546141147614 0 0.121869318187237 0 0 1 0 0 -0.121869318187237 0 0.992546141147614 0 -1991.15307617188 -20 -2408.55541992188 1" rotationY="-7" centerPoint3DX="272.8" centerPoint3DY="474.75" centerPoint3DZ="-0.3">
+                  <matrix>
+                    <Matrix a="0.588638305664063" d="0.588638305664063" tx="552.55" ty="335.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-178.9" y="2.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="50" blurY="50" color="#FFFFFF" quality="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" centerPoint3DX="454.05" centerPoint3DY="520.7">
+                  <matrix>
+                    <Matrix a="23.9699401855469" b="-2.62315368652344" d="0.990158081054688" tx="383.2" ty="611.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15.75" y="4.6"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.37890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

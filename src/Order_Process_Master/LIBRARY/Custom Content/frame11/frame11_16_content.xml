@@ -1,0 +1,176 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_16_content" itemID="4e81de48-00000b5e" lastModified="1319745685">
+  <timeline>
+    <DOMTimeline name="frame11_16_content">
+      <layers>
+        <DOMLayer name="labels" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="hilite_amount" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMStaticText width="487.95" height="63.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="396" ty="27.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jack’s order for Runner’s Store has been submitted. The order will remain in an O/S (or Out status in eCom) until a PO/WO is initiated </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText width="476.95" height="41.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="396" ty="110"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jack’s order will move to Reservation status within 120 days from today’s date.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand right" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/righthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.999908447265625" b="0.01190185546875" c="-0.01190185546875" d="0.999908447265625" tx="448.9" ty="477.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HILIGHTS" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="496.2" centerPoint3DY="357.55">
+                  <matrix>
+                    <Matrix a="-0.408950805664063" b="0.843643188476563" c="-0.843643188476563" d="-0.408950805664063" tx="643.2" ty="326.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.55" y="124.2"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="526.55" centerPoint3DY="437">
+                  <matrix>
+                    <Matrix a="-0.36505126953125" b="0.136138916015625" c="-0.136138916015625" d="-0.36505126953125" tx="562.45" ty="507.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.65" y="115"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#333333"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand left" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lefthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.999526977539063" b="-0.0306396484375" c="0.0306396484375" d="0.999526977539063" tx="40.35" ty="461.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tablet" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_A/eCom_06" centerPoint3DX="378.4" centerPoint3DY="384.2">
+                  <matrix>
+                    <Matrix a="0.999526977539063" b="-0.0306396484375" c="0.0306396484375" d="0.999526977539063" tx="89.45" ty="177.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="284.4" y="215.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg store" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/bg_shoewall" centerPoint3DX="268.5" centerPoint3DY="345.55">
+                  <transformationPoint>
+                    <Point x="268.5" y="345"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_15_content" itemID="4e81de41-00000b5c" lastModified="1317327024">
+  <timeline>
+    <DOMTimeline name="frame11_15_content">
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="380.95" height="41.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="426" ty="38.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jack enters the quantity for each style and submits the order.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand right" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/righthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.896682739257813" b="-0.442642211914063" c="0.442642211914063" d="0.896682739257813" tx="397.15" ty="535.75"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand left" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lefthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.998855590820313" b="-0.04779052734375" c="0.04779052734375" d="0.998855590820313" tx="61.85" ty="395.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tablet" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_A/eCom_05" selected="true" centerPoint3DX="398" centerPoint3DY="312.15">
+                  <matrix>
+                    <Matrix a="0.998855590820313" b="-0.04779052734375" c="0.04779052734375" d="0.998855590820313" tx="105.55" ty="110.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="284.45" y="215.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg store" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/bg_shoewall" centerPoint3DX="268.5" centerPoint3DY="345.55">
+                  <transformationPoint>
+                    <Point x="268.5" y="345"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" itemID="4e8331ce-00000b90" lastModified="1317221111">
+  <timeline>
+    <DOMTimeline name="hilight_box_dashedLine">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash2="20" scaleMode="normal" weight="10">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3232 673[3787 1347 3787 2300!3787 2300[3787 3253 3232 3927!3232 3927[2678 4601 1893 4601!1893 4601[1109 4601 554 3927!554 3927[0 3253 0 2300!0 2300[0 1347 554 673!554 673[1109 0 1893 0!1893 0[2678 0 3232 673"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

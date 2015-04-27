@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03/icon_salesRep" itemID="4e779b6d-0000295e" lastModified="1316461496" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="icon_salesRep">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="224" height="42.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="106.45" ty="228.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SALES REPRESENTATIVES </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px" centerPoint3DX="218.45" centerPoint3DY="292.4">
+                  <matrix>
+                    <Matrix a="0.423721313476563" d="0.423721313476563" tx="205.95" ty="279.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.5" y="29.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_sales.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

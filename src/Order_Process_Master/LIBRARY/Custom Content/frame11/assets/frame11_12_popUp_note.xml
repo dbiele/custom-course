@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/frame11_12_popUp_note" itemID="4e85c8c9-00000aa5" lastModified="1321639947" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="frame11_12_popUp_note">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/calloutBox_with_shdw" centerPoint3DX="163.8" centerPoint3DY="78.25">
+                  <matrix>
+                    <Matrix a="0.77752685546875" d="0.72430419921875" ty="1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.35" y="94.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="462.25" height="45.2" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" tx="26.8" ty="40.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     ote: New Balance will buy raw materials to support the number of future orders received.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="18" bitmapSize="360" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="19" height="29.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25.2" ty="35.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>N</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="26" bitmapSize="520" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame05/assets/popUp_bubble" itemID="4e7797de-00002637" lastModified="1316460921">
+  <timeline>
+    <DOMTimeline name="popUp_bubble">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="238.5" height="79.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="22"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>To learn more about all New Balance order types, click on the Reference button in your navigation and locate the XXXXX (TITLE)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="15" bitmapSize="300" face="Calibri-Bold" fillColor="#548CAA"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.045166015625" c="0.17620849609375" d="0" tx="144.35" ty="134.95"/>
+                        </matrix>
+                        <GradientEntry color="#CDEDFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#45A8DB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!5633 0/1683 0!1683 0/142 0!142 0[0 0 0 141!0 141/0 2315!0 2315[0 2455 142 2455!142 2455/1683 2455!1683 2455/2696 2455!2696 2455/2753 2559!2753 2559/3208 3918!3208 3918/3210 2559!3210 2559/3210 2455!3210 2455/5633 2455!5633 2455[5774
+ 2455 5774 2315!5774 2315/5774 141!5774 141[5774 0 5633 0"/>
+                    <Edge cubics="!5633 0(;5633,0 1683,0 1683,0q5633 0 1683 0);"/>
+                    <Edge cubics="!1683 0(;1683,0 142,0 142,0q1683 0 142 0);"/>
+                    <Edge cubics="!5633 2455(;5727,2455 5774,2409 5774,2315q5633 2455Q5774 2455q5774 2315);"/>
+                    <Edge cubics="!5774 2315(;5774,2315 5774,141 5774,141q5774 2315 5774 141);"/>
+                    <Edge cubics="!0 141(;0,141 0,2315 0,2315q0 141 0 2315);"/>
+                    <Edge cubics="!0 2315(;0,2409 48,2455 142,2455q0 2315Q0 2455q142 2455);"/>
+                    <Edge cubics="!5774 141(;5774,47 5727,0 5633,0q5774 141Q5774 0q5633 0);"/>
+                    <Edge cubics="!142 0(;48,0 0,47 0,141q142 0Q0 0q0 141);"/>
+                    <Edge cubics="!5633 2455(;5633,2455 3210,2455 3210,2455q5633 2455 3210 2455);"/>
+                    <Edge cubics="!3210 2455(;3210,2455 3210,2559 3210,2559q3210 2455 3210 2559);"/>
+                    <Edge cubics="!3210 2559(;3210,2559 3208,3918 3208,3918q3210 2559 3208 3918);"/>
+                    <Edge cubics="!3208 3918(;3208,3918 2753,2559 2753,2559q3208 3918 2753 2559);"/>
+                    <Edge cubics="!2753 2559(;2753,2559 2696,2455 2696,2455q2753 2559 2696 2455);"/>
+                    <Edge cubics="!2696 2455(;2696,2455 1683,2455 1683,2455q2696 2455 1683 2455);"/>
+                    <Edge cubics="!1683 2455(;1683,2455 142,2455 142,2455q1683 2455 142 2455);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

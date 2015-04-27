@@ -1,0 +1,127 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/Frame11_08_mc" itemID="4e81df05-00001187" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="Frame11_08_mc" lastModified="1321820731" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Frame11_08_mc" currentFrame="11">
+      <layers>
+        <DOMLayer name="labels" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" name="anim_01" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" name="hilite_amount" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" name="hilite_date" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HILIGHTS" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="699.1" centerPoint3DY="365.85">
+                  <matrix>
+                    <Matrix a="0.677963256835938" b="-0.647567749023438" c="0.647567749023438" d="0.677963256835938" tx="549.25" ty="342.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.4" y="124.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/arw_curved" centerPoint3DX="790.65" centerPoint3DY="301.1">
+                  <matrix>
+                    <Matrix a="0.481918334960938" b="-0.80419921875" c="-0.80419921875" d="-0.481918334960938" tx="846.15" ty="441.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.35" y="123.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="696.95" centerPoint3DY="280.4">
+                  <matrix>
+                    <Matrix a="0.389617919921875" d="0.389617919921875" tx="688.05" ty="201.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.6" y="115"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/hilight_box_dashedLine" centerPoint3DX="872.95" centerPoint3DY="276.5">
+                  <matrix>
+                    <Matrix a="0.418930053710938" d="0.418930053710938" tx="861.3" ty="194.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.55" y="114.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="25" blurY="25" distance="0" strength="0.25"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/frame11_08_content" name="content_mc" centerPoint3DX="168.95" centerPoint3DY="199">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

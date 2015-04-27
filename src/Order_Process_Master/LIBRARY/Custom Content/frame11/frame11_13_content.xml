@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_13_content" itemID="4e81de34-00000b58" lastModified="1319042103" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="frame11_13_content">
+      <layers>
+        <DOMLayer name="txt" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="615" height="41.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="377.05" ty="42.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jack selects US New Balance Footwear Booking, order type A, &#xD;and places the order in eCom prior to the booking order due date.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand right" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/righthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.984771728515625" b="-0.173797607421875" c="0.173797607421875" d="0.984771728515625" tx="401.1" ty="477.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand left" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lefthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.998855590820313" b="-0.04779052734375" c="0.04779052734375" d="0.998855590820313" tx="59.2" ty="406.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tablet" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_A/eCom_02" selected="true" centerPoint3DX="400.8" centerPoint3DY="319.9">
+                  <matrix>
+                    <Matrix a="0.998855590820313" b="-0.04779052734375" c="0.04779052734375" d="0.998855590820313" tx="106.55" ty="118.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="284.35" y="215.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg store" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/bg_shoewall" centerPoint3DX="268.5" centerPoint3DY="345.55">
+                  <transformationPoint>
+                    <Point x="268.5" y="345"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

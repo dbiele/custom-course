@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/checkStatus_screen_03a" itemID="4e846f68-00000762" lastModified="1317302973" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="checkStatus_screen_03a">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="18.35" width="99.8" height="19.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="288.9" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TRACKING</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" centerPoint3DX="399" centerPoint3DY="300.5">
+                  <matrix>
+                    <Matrix a="22.6762084960938" b="-0.00030517578125" d="0.990158081054688" tx="357.15" ty="247.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.8" y="2.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.37890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/check_status_03.png">
+                  <matrix>
+                    <Matrix tx="42.15" ty="40"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

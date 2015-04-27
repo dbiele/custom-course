@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/future/txt_summary" itemID="4e00abd0-00000e39" lastModified="1308666832">
+  <timeline>
+    <DOMTimeline name="txt_summary">
+      <layers>
+        <DOMLayer name="btn" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/timeline_assets/btn_close_pop_up_long" selected="true" centerPoint3DX="299.95" centerPoint3DY="-3.65">
+                  <matrix>
+                    <Matrix a="1.08740234375" tx="-24.05" ty="-16.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="322.1" y="12.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="text" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMTLFText top="483" right="12099" bottom="3740">
+                  <matrix>
+                    <Matrix tx="30" ty="15.85"/>
+                  </matrix>
+                  <tlfFonts>
+                    <TLFFont platformName="Gotham Book" psName="Gotham-Book"/>
+                  </tlfFonts>
+                  <markup><tlfTextObject type="Paragraph" editPolicy="readOnly" columnCount="1" columnGap="20" verticalAlign="top" firstBaselineOffset="auto" paddingLeft="2" paddingTop="2" paddingRight="2" paddingBottom="2" background="false" backgroundColor="#ffffff" backgroundAlpha="1" border="false" borderColor="#000000" borderAlpha="1" borderWidth="1" paddingLock="false" multiline="true" antiAliasType="advanced" embedFonts="true"><TextFlow blockProgression="tb" locale="en_US" whiteSpaceCollapse="preserve" version="2.0.0" xmlns="http://ns.adobe.com/textLayout/2008"><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="Gotham Book" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">In this course, we’ve learned that New Balance has a rich history as a leading manufacturer of technologically innovative width-sized footwear and athletic apparel for consumers around the globe.  You have learned about our commitment to manufacturing in the USA, as well as our commitment to supporting charitable organizations such as the Susan G. Komen for the Cure organization.</span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="Gotham Book" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">The hard work of our associates, and the commitment of sales associates to represent the brand best at retail, is what makes it all possible. New Balance will continue to grow with the consumer in mind, delivering unmatched product, service and </span></p><p direction="ltr" paragraphEndIndent="0" paragraphSpaceAfter="10" paragraphSpaceBefore="0" paragraphStartIndent="0" textAlign="start" textAlignLast="start" textIndent="0" textJustify="interWord"><span color="#0b0b0b" fontFamily="Gotham Book" fontSize="13" fontStyle="normal" fontWeight="normal" kerning="auto" lineHeight="115%" textAlpha="1" textRotation="auto" trackingRight="0%">We look forward to a great future with you!</span></p></TextFlow></tlfTextObject></markup>
+                </DOMTLFText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/bg_pop_up" centerPoint3DX="200" centerPoint3DY="277.2">
+                  <matrix>
+                    <Matrix a="1.6875" d="0.453460693359375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="277.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame13/frame13_content" itemID="4e6120ed-0000069e" lastModified="1321641122" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="frame13_content">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_sales.png">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="71.05" ty="434.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.35"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame03a/assets/icon_csr_100" centerPoint3DX="381.5" centerPoint3DY="366.95">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="183.65" ty="250.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="329.75" y="193.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame03a/assets/icon_dealer_100" centerPoint3DX="121.3" centerPoint3DY="365.85">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-74.6" ty="250.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame05/assets/mc_monitor" centerPoint3DX="816.95" centerPoint3DY="435">
+                  <matrix>
+                    <Matrix tx="350.45" ty="153"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="466.5" y="282"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="655" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="260.6" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Course Conclusion</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="658.95" height="107.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The New Balance order process strategy, the collective steps and tasks associated with fulfilling your customer's order for New Balance products play a crucial role in ensuring an efficient and long term relationship with your customer.&#xD;&#xD;Let’s test your knowledge on order process with a few questions.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="17" bitmapSize="340" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

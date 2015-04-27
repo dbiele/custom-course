@@ -1,0 +1,150 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/26 Final Assessment Introduction" itemID="493805b9-00004a3c" sourceFlashFilepath="../../../../New Balance History 101/FLASH/src/History_101_Master/History_101_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/26 Final Assessment Introduction" sourceLastModified="1318538103" lastModified="1319670414" lastUniqueIdentifier="12" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="26 Final Assessment Introduction">
+      <layers>
+        <DOMLayer name="actions" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bullet_mc" color="#4F80FF" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/bullet" name="bullet_mc" centerPoint3DX="62.05" centerPoint3DY="104">
+                  <matrix>
+                    <Matrix a="1.00033569335938" d="1.00015258789063" tx="58.05" ty="100"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (enterFrame) {
+	this.gotoAndStop(_level0.bullettype+1);
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textarea_mc" color="#FF4F4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_finalassessmentintro" name="textarea_mc" centerPoint3DX="201.5" centerPoint3DY="301.05">
+                  <matrix>
+                    <Matrix a="1.00022888183594" d="1.000244140625" tx="40" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="imagecanvas_mc" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_image_lessonoverview" name="imagecanvas_mc" centerPoint3DX="488" centerPoint3DY="115">
+                  <matrix>
+                    <Matrix a="0.999786376953125" tx="408.05" ty="55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="60" blurX="8" blurY="8" distance="8" quality="2" strength="0.35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="reviewWindowFinal" color="#FFFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-begin-final-assessment" name="startButton" centerPoint3DX="130" centerPoint3DY="405">
+                  <matrix>
+                    <Matrix a="1.00030517578125" tx="40" ty="390"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TEXT" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="478" height="271.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="93.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get ready for the road test! &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.15" size="22" face="_Claredon Regular copy*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>The following pages will test your knowledge of New Balance’s Order Process; Click the "Begin Final Test" button when you are ready.&#xD;&#xD;It is 5 questions in length and should take you approximately 5 minutes to complete.&#xD;&#xD;Select the correct answer for each question and click next to continue.&#xD;&#xD;To pass this course, you must score at least 80%.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0.2" size="18" face="_Claredon Regular copy*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="478.7" height="150.1" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="82"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Attention! &#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.15" size="22" face="_Claredon Regular copy*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>You must complete all the lessons in this course before attempting the final assessment.  &#xD;&#xD;The final assessement will be enabled when the lessons are all completed.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0.2" size="18" face="_Claredon Regular copy*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,157 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/order_E/katelynn_mc" itemID="4e8223a2-00003b10" lastModified="1317415977" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="katelynn_mc">
+      <layers>
+        <DOMLayer name="labels" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" name="answering" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" name="account_lookup" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" name="order_entry" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" name="order_clarification" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" name="hangup_happy" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hang up" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/katelynn_hangup" centerPoint3DX="517" centerPoint3DY="239">
+                  <matrix>
+                    <Matrix tx="154.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362.5" y="239"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NB-katelynn_talk02.png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/katelynn_talk02" centerPoint3DX="517" centerPoint3DY="239">
+                  <matrix>
+                    <Matrix tx="154.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362.5" y="239"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NB-katelynn_keyboard.png" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/katelynn_keyboard" centerPoint3DX="467.7" centerPoint3DY="206.5">
+                  <matrix>
+                    <Matrix tx="154.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="313.2" y="206.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NB-katelynn_talk01.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/katelynn_talk01" selected="true" centerPoint3DX="517" centerPoint3DY="239">
+                  <matrix>
+                    <Matrix tx="154.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362.5" y="239"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="11" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/katelynn_answering" centerPoint3DX="515.5" centerPoint3DY="240">
+                  <matrix>
+                    <Matrix tx="153" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362.5" y="239"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="15" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg_cubicleWall" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/bg_cubicleWall" centerPoint3DX="264.7" centerPoint3DY="296.3">
+                  <matrix>
+                    <Matrix a="0.864013671875" d="0.864013671875" ty="105.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="307" y="221"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

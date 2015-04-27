@@ -1,0 +1,273 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/frame06_03_content" itemID="4e7a3890-00000572" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame06_03_Content" linkageClassName="frame06_03_content" lastModified="1321634131" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="frame06_03_content" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;473&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="751" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Locate your role at New Balance below and notice which order source is appropriate for your department.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icons" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="708.45" ty="473.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>NATIONAL ACCOUNT SPECIALIST </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_csr.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="632.7" ty="287.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText left="5.5" width="133" height="44" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="98.1" ty="536.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Order Source:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> JBA&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_sales.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="312.75" ty="299"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="326.5" y="191.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMStaticText width="267.5" height="19.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="365.5" ty="494.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SALES REPRESENTATIVE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-2.85" width="149.7" height="22" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="427.25" ty="536.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Order Source:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" face="_Calibri Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> eCom</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="5.5" width="133" height="22" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="748.45" ty="536.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Order Source:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> JBA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMGroup>
+                  <members>
+                    <DOMStaticText width="224" height="38.95" includeOutlines="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="57.5" ty="473.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>ACCOUNT SERVICE&#xD;REPRESENTATIVE</characters>
+                          <textAttrs>
+                            <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                    <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_dealerAccounts.png">
+                      <matrix>
+                        <Matrix a="0.5" d="0.5" tx="-14.25" ty="297.25"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="326.5" y="191.5"/>
+                      </transformationPoint>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText fontRenderingMode="standard" width="173" height="22" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="424.4" ty="615.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Customers:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> B2B/EDI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="b2b edi" color="#9933CC" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/b2b" matrix3D="1 0 0 0 0 1 0 0 0 0 1 0 -180.714294433594 4134 -2.57546019554138 1" centerPoint3DX="500.3" centerPoint3DY="497.7">
+                  <matrix>
+                    <Matrix a="0.394180297851563" d="0.394180297851563" tx="236.7" ty="324.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="287.3" y="603.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/edi" matrix3D="0.999847769737244 0 0.017452422529459 0 0 1 0 0 -0.017452422529459 0 0.999847769737244 0 61.7677001953125 4454 -153.570007324219 1" rotationY="-1" centerPoint3DX="583.15" centerPoint3DY="536.75" centerPoint3DZ="2.45">
+                  <matrix>
+                    <Matrix a="0.278213500976563" d="0.278213500976563" tx="318.85" ty="337.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249.25" y="669.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="199.999995446541" distance="11" quality="3" strength="0.26"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="screens" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/e_07" matrix3D="0.829037547111511 0 0.559192895889282 0 0 1 0 0 -0.559192895889282 0 0.829037547111511 0 1955.63061523438 -1720 -1882.80249023438 1" rotationY="-34" centerPoint3DX="236.75" centerPoint3DY="269">
+                  <matrix>
+                    <Matrix a="0.442062377929688" d="0.671142578125" tx="122.7" ty="360"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="161.4" y="-107.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/e_07" matrix3D="0.829037487506866 0 -0.559192895889282 0 0 1 0 0 0.559192895889282 0 0.829037487506866 0 13681.435546875 5131 7243.17236328125 1" rotationY="34" centerPoint3DX="1043.85" centerPoint3DY="732.15" centerPoint3DZ="208.35">
+                  <matrix>
+                    <Matrix a="0.708175659179688" tx="290.9" ty="43.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="918.25" y="436.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="50" blurY="50" color="#FFFFFF" quality="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" matrix3D="0.987686097621918 0.156433090567589 0 0 -0.15643310546875 0.987686157226563 0 0 0 0 0.999999940395355 0 4866.85693359375 -210.776428222656 -3.2804160118103 1" centerPoint3DX="897.75" centerPoint3DY="383.55">
+                  <matrix>
+                    <Matrix a="6.59422302246094" b="-0.0001068115234375" d="0.548248291015625" tx="648.75" ty="320.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.25" y="222.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.75" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" matrix3D="0.994518339633942 -0.104514464735985 0 0 0.104514464735985 0.994518399238586 0 0 0 0 0.999999940395355 0 -9872.267578125 3048.01440429688 -3.2804160118103 1" centerPoint3DX="240.5" centerPoint3DY="363.95">
+                  <matrix>
+                    <Matrix a="6.46807861328125" b="-0.0001068115234375" d="0.548248291015625" tx="648.5" ty="320.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-56.15" y="211.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.75" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/eCom" centerPoint3DX="499" centerPoint3DY="256.95">
+                  <matrix>
+                    <Matrix tx="250" ty="146.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249" y="110.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

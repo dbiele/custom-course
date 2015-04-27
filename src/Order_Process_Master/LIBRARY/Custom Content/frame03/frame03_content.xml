@@ -1,0 +1,119 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03/frame03_content" itemID="4e612099-00000688" lastModified="1321630209" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="frame03_content">
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="99.2" height="17.1" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.43795776367188" d="1.43795776367188" tx="49.9" ty="476.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Let's get started!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="-0.95" size="14" face="_Calibri Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="346.95" height="26.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>This course will help you:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="24" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="502" height="390" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="78" ty="86"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Learn about the lifecycle of an order through the New Balance order process from the point of entry to shipment to the customer.&#xD;&#xD;Understand how the operational procedures of the distribution centers are determined by many factors.&#xD;&#xD;Compare and contrast the roles and collective tasks of New Balance’s dedicated sales and service associates and partners.&#xD;&#xD;Determine the origins of a sales order.&#xD;&#xD;Understand the process of assigning inbound inventory and on hand inventory to sales orders.&#xD;&#xD;Learn about the established corporate guidelines to ensure product ships accurately and on time to the customer.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="97.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="90"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="165.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="158"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="235.05">
+                  <matrix>
+                    <Matrix tx="48.5" ty="228"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="305">
+                  <matrix>
+                    <Matrix tx="48.5" ty="297.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="349">
+                  <matrix>
+                    <Matrix tx="48.5" ty="341.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/other/arrow_bullet" name="bullet_01" centerPoint3DX="57.2" centerPoint3DY="419">
+                  <matrix>
+                    <Matrix tx="48.5" ty="411.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.7" y="7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="img" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/monitor_login.png">
+                  <matrix>
+                    <Matrix tx="344.95" ty="84"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

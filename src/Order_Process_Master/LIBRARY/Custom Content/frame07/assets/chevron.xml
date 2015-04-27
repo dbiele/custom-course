@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/assets/chevron" itemID="4e7b36e0-00000bd4" lastModified="1357821417">
+  <timeline>
+    <DOMTimeline name="chevron">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0445556640625" c="0.156707763671875" d="0" tx="128.45" ty="58.45"/>
+                        </matrix>
+                        <GradientEntry color="#CEDCE2" ratio="0"/>
+                        <GradientEntry color="#D1DFE5" ratio="0.172549019607843"/>
+                        <GradientEntry color="#DEECF3" ratio="0.486274509803922"/>
+                        <GradientEntry color="#E8F7FF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0" b="-0.08050537109375" c="0.0696563720703125" d="0" tx="128.45" ty="50"/>
+                            </matrix>
+                            <GradientEntry color="#DBF2FF" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" ratio="0.607843137254902"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!5137 1000S6|4657 2000!4657 2000|2 2000!2 2000|482 998!482 998|2 0!2 0|4657 0!4657 0|5137 1000"/>
+                    <Edge cubics="!4657 2000(;4657,2000 2,2000 2,2000p4657 2000q2 2000);"/>
+                    <Edge cubics="!2 2000(;2,2000 482,998 482,998p2 2000q482 998);"/>
+                    <Edge cubics="!482 998(;482,998 2,0 2,0p482 998q2 0);"/>
+                    <Edge cubics="!2 0(;2,0 4657,0 4657,0p2 0q4657 0);"/>
+                    <Edge cubics="!4657 0(;4657,0 5137,1000 5137,1000p4657 0q5137 1000);"/>
+                    <Edge cubics="!5137 1000(;5137,1000 4657,2000 4657,2000p5137 1000q4657 2000);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

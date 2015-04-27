@@ -1,0 +1,190 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_02_content" itemID="4e70e8be-000007af" lastModified="1319035295" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="frame04_02_content" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;404&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="txt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="860.95" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="539.75" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Large Scale Order Processing</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="662.95" height="154" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>At New Balance, our system is designed for large scale order processing.  Our customers require an assurance of product availability coupled with accurate delivery dates.&#xD;&#xD;New Balance’s order process is able to handle each order according to its assigned priority and our multi-channel environment.&#xD;&#xD;Let’s explore some of these channels in more detail. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="18" bitmapSize="360" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icons" color="#4FFF4F" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="icon specialty dept" color="#FF800A" parentLayerIndex="1" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_specialty_dept" selected="true" centerPoint3DX="1019.95" centerPoint3DY="449.9">
+                  <matrix>
+                    <Matrix tx="853.95" ty="386.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="166" y="63"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon specialty athletic" color="#9933CC" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_athletic_specialty" selected="true" centerPoint3DX="515.95" centerPoint3DY="586.9">
+                  <matrix>
+                    <Matrix tx="349.95" ty="523.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="166" y="63"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_sporting_goods_store" color="#4FFF4F" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_sporting_goods_store" centerPoint3DX="712" centerPoint3DY="521.5">
+                  <matrix>
+                    <Matrix tx="524" ty="440"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="188" y="81.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_NB_store" color="#9933CC" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_NB_store" centerPoint3DX="385" centerPoint3DY="503.5">
+                  <matrix>
+                    <Matrix tx="244" ty="452"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="141" y="51.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_department_store" color="#FF800A" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_department_store" centerPoint3DX="179" centerPoint3DY="530">
+                  <matrix>
+                    <Matrix tx="12" ty="459"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="167" y="71"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_shoe_chain_store" color="#FF4FFF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_shoe_chain_store" centerPoint3DX="781" centerPoint3DY="361">
+                  <matrix>
+                    <Matrix tx="615" ty="298"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="166" y="63"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_running_elite_store" color="#4FFFFF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_running_elite_store" centerPoint3DX="595" centerPoint3DY="341">
+                  <matrix>
+                    <Matrix tx="485" ty="259"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="110" y="82"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_family_store" color="#808080" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_family_store" centerPoint3DX="447.05" centerPoint3DY="354.95">
+                  <matrix>
+                    <Matrix tx="333.05" ty="289.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="114" y="65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon_specialty_store" color="#4F80FF" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/icon_specialty_store" centerPoint3DX="179.55" centerPoint3DY="361.95">
+                  <matrix>
+                    <Matrix tx="-1.95" ty="299.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="181.5" y="62"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

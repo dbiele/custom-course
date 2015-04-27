@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/screen layout elements/set_textbox_coursefail" itemID="474de253-00001d4f" sourceFlashFilepath="../Order_Process_Master_erase/Order_Process_Master.xfl" sourceLibraryItemHRef="Global/Screen layouts/screen layout elements/set_textbox_coursefail" sourceLastModified="1319738511" lastModified="1319738511" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="set_textbox_coursefail">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText selected="true" width="476.05" height="170.6" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00006103515625" d="1.00003051757813" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You did not pass the Final Assessment.  You must retake the assessment in order to complete New Balance Order Process.&#xD;&#xD;Click Save and Exit and re-launch the course to try again.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" rotation="true" lineSpacing="-0.15" size="22" bitmapSize="440" face="_Claredon Regular copy 2*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="112.999998861635" distance="1" strength="0.25"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

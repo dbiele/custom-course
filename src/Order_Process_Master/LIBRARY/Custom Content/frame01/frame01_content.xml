@@ -1,0 +1,108 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame01/frame01_content" itemID="4dc2bd7e-00006ec1" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame01_Content" linkageClassName="frame01_content" lastModified="1321630039" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="frame01_content">
+      <layers>
+        <DOMLayer name="labels" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="493" height="26.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="282"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Would you like to visit the Help menu? </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.55" size="22" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="345.95" height="91.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="45" ty="355"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click Yes to learn more about navigation. Click No to move to the next screen.&#xD;&#xD;This course contains audio narration.  Ensure that your audio is enabled.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="374" height="187.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Welcome to &#xD;New Balance&#xD;Order Process: &#xD;Life of an order! </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.35" size="44" bitmapSize="880" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-yes" name="btn_yes" centerPoint3DX="77.5" centerPoint3DY="327.35">
+                  <matrix>
+                    <Matrix tx="46" ty="316.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-no" name="btn_no" centerPoint3DX="149.5" centerPoint3DY="327.35">
+                  <matrix>
+                    <Matrix tx="118" ty="316.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shoe" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/shoeInBox.png">
+                  <matrix>
+                    <Matrix tx="287.9" ty="18.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="794.5" y="682"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="vertical line" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

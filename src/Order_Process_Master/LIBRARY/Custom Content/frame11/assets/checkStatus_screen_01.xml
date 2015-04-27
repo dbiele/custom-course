@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/checkStatus_screen_01" itemID="4e846c6c-000004ce" lastModified="1317302414" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="checkStatus_screen_01">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-11.85" width="160.2" height="19.9" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="346.65" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>STATUS LOOKUP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="1" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/frame11_06_gfx" selected="true" matrix3D="1 0 1.46273848145029e-007 0 0 1 0 0 -1.46273848145029e-007 0 1 0 -9211.7939453125 -6139 -426.000366210938 1" centerPoint3DX="406.2" centerPoint3DY="185.8" centerPoint3DZ="-0.3">
+                  <matrix>
+                    <Matrix tx="523.4" ty="347.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-433.45" y="-318.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="50" blurY="50" color="#FFFFFF" quality="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" centerPoint3DX="398.9" centerPoint3DY="349.5">
+                  <matrix>
+                    <Matrix a="26.1583404541016" b="-0.0003509521484375" d="0.990158081054688" tx="412" ty="296.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.8" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.37890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

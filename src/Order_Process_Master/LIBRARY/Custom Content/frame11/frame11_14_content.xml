@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_14_content" itemID="4e81de3b-00000b5a" lastModified="1319042350" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="frame11_14_content" currentFrame="20">
+      <layers>
+        <DOMLayer name="labels" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMStaticText width="624.15" height="19.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="313.8" ty="57.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jack confirms the order’s Request Date and enters the PO# 091211.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="18" bitmapSize="360" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand right" color="#9933CC" current="true" isSelected="true" autoNamed="false" animationType="motion object">
+          <frames>
+            <DOMFrame index="0" duration="21" tweenType="motion object" motionTweenRotate="none" motionTweenScale="false" isMotionObject="true" visibleAnimationKeyframes="2097151" keyMode="8195">
+              <motionObjectXML><AnimationCore TimeScale="29000" Version="1" duration="21000"><TimeMap strength="0" type="Quadratic"/><metadata><names><name langID="en_US" value=""/></names><Settings orientToPath="0" xformPtXOffsetPct="0.501228" xformPtYOffsetPct="0.499805" xformPtZOffsetPixels="0"/></metadata><PropertyContainer id="headContainer"><PropertyContainer id="Basic_Motion"><Property enabled="1" id="Motion_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,34" next="0,34" previous="0,34" roving="0" timevalue="10000"/><Keyframe anchor="0,24.25" next="333,29.0189" previous="0,24.25" roving="0" timevalue="11000"/><Keyframe anchor="0,19.2929" next="1666,7.06616" previous="-334,21.7396" roving="0" timevalue="13000"/><Keyframe anchor="0,-129.75" next="0,-129.75" previous="-1664,-69.2557" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Motion_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,8" next="0,8" previous="0,8" roving="0" timevalue="10000"/><Keyframe anchor="0,4.75" next="333,8.31834" previous="0,4.75" roving="0" timevalue="11000"/><Keyframe anchor="0,17.4246" next="1666,41.4931" previous="-334,12.6082" roving="0" timevalue="13000"/><Keyframe anchor="0,98.75" next="0,98.75" previous="-1664,72.7108" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Rotation_Z" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,-11.0009" next="0,-11.0009" previous="0,-11.0009" roving="0" timevalue="0"/><Keyframe anchor="0,-26" next="0,-26" previous="0,-26" roving="0" timevalue="10000"/><Keyframe anchor="0,-26" next="0,-26" previous="0,-26" roving="0" timevalue="11000"/><Keyframe anchor="0,-19.3526" next="0,-19.3526" previous="0,-19.3526" roving="0" timevalue="13000"/><Keyframe anchor="0,-7.549" next="0,-7.549" previous="0,-7.549" roving="0" timevalue="20000"/></Property></PropertyContainer><PropertyContainer id="Transformation"><Property enabled="1" id="Skew_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="10000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Skew_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="0"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="10000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="11000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="13000"/><Keyframe anchor="0,0" next="0,0" previous="0,0" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Scale_X" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="10000"/><Keyframe anchor="0,100.337" next="0,100.337" previous="0,100.337" roving="0" timevalue="11000"/><Keyframe anchor="0,100.337" next="0,100.337" previous="0,100.337" roving="0" timevalue="13000"/><Keyframe anchor="0,100.337" next="0,100.337" previous="0,100.337" roving="0" timevalue="20000"/></Property><Property enabled="1" id="Scale_Y" ignoreTimeMap="0" readonly="0" visible="1"><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="0"/><Keyframe anchor="0,100" next="0,100" previous="0,100" roving="0" timevalue="10000"/><Keyframe anchor="0,100.15" next="0,100.15" previous="0,100.15" roving="0" timevalue="11000"/><Keyframe anchor="0,100.15" next="0,100.15" previous="0,100.15" roving="0" timevalue="13000"/><Keyframe anchor="0,100.15" next="0,100.15" previous="0,100.15" roving="0" timevalue="20000"/></Property></PropertyContainer><PropertyContainer id="Colors"/><PropertyContainer id="Filters"/></PropertyContainer></AnimationCore></motionObjectXML>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/hand_right" selected="true" centerPoint3DX="523.9" centerPoint3DY="541.15">
+                  <matrix>
+                    <Matrix a="0.98162841796875" b="-0.190811157226563" c="0.190811157226563" d="0.98162841796875" tx="358.95" ty="443.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.85" y="127.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand left" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/lefthand_shdwd.png">
+                  <matrix>
+                    <Matrix a="0.999832153320313" b="-0.01806640625" c="0.01806640625" d="0.999832153320313" tx="61.3" ty="383.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tablet" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_A/eCom_03" centerPoint3DX="402.35" centerPoint3DY="313.05">
+                  <matrix>
+                    <Matrix a="0.999832153320313" b="-0.01806640625" c="0.01806640625" d="0.999832153320313" tx="115.45" ty="102.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="284.45" y="215.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_A/eCom_04" centerPoint3DX="402.35" centerPoint3DY="313.05">
+                  <matrix>
+                    <Matrix a="0.999832153320313" b="-0.01806640625" c="0.01806640625" d="0.999832153320313" tx="115.45" ty="102.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="284.45" y="215.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg store" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/assets/order_E/bg_shoewall" centerPoint3DX="268.5" centerPoint3DY="345.55">
+                  <transformationPoint>
+                    <Point x="268.5" y="345"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

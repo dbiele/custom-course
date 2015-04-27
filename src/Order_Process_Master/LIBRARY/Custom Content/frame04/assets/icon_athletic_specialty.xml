@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/assets/icon_athletic_specialty" itemID="4e9ede3f-00000dea" lastModified="1319034527">
+  <timeline>
+    <DOMTimeline name="icon_athletic_specialty">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/icon_athletic_specialty.png">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163" y="62"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

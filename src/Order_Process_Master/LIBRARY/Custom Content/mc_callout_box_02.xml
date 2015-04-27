@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/mc_callout_box_02" itemID="4e775bc7-000004f9" lastModified="1316447495">
+  <timeline>
+    <DOMTimeline name="mc_callout_box_02" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;3&lt;/guideline&gt;&lt;guideline direction="v"&gt;517&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.04248046875" b="-0.12652587890625" c="0.212417602539063" d="0.0713348388671875" tx="179.75" ty="91.2"/>
+                        </matrix>
+                        <GradientEntry color="#BBC9CF" ratio="0.0901960784313725"/>
+                        <GradientEntry color="#BCC9D0" ratio="0.301960784313725"/>
+                        <GradientEntry color="#CAD8DE" ratio="0.52156862745098"/>
+                        <GradientEntry color="#D1DFE5" ratio="0.992156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="5" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!10344 71[10319 73 6023 68!6023 68/3128 72.5!3128 72.5[#854.62 #4A.7C 616 77!616 77[361 77 180 257!180 257[0 438 0 694!0 694/0 2078!0 2078[0 2333 180 2514!180 2514[360 2694 616 2694!616 2694/9732 2694!9732 2694[9987 2694 10168 2514!10168
+ 2514[10348 2333 10348 2078!10348 2078[10339 1720 10334 1291!10334 1291[10323 431 10344 71"/>
+                    <Edge cubics="!616 77(;275,77 0,352 0,694q616 77Q361 77q180 257Q0 438q0 694);"/>
+                    <Edge cubics="!0 694(;0,694 0,2078 0,2078q0 694 0 2078);"/>
+                    <Edge cubics="!0 2078(;0,2418 275,2694 616,2694q0 2078Q0 2333q180 2514Q360 2694q616 2694);"/>
+                    <Edge cubics="!9732 2694(;10072,2694 10348,2418 10348,2078q9732 2694Q9987 2694q10168 2514Q10348 2333q10348 2078);"/>
+                    <Edge cubics="!3128 73(;1940,74 616,77 616,77q3128 73 616 77);"/>
+                    <Edge cubics="!616 2694(;616,2694 9732,2694 9732,2694q616 2694 9732 2694);"/>
+                    <Edge cubics="!6023 68(;6023,68 3128,73 3128,73q6023 68 3128 73);"/>
+                    <Edge cubics="!6023 68(;6112,67 10319,73 10344,71q6023 68Q10319 73q10344 71);"/>
+                    <Edge cubics="!10348 2078(;10348,2078 10311,647 10344,71q10348 2078Q10339 1720q10334 1291Q10323 431q10344 71);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

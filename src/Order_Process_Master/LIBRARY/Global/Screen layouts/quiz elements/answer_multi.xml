@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/quiz elements/answer_multi" itemID="46954625-00008b16" linkageExportForAS="true" linkageClassName="answer_multi" sourceFlashFilepath="../History_101_Master/Projects/Kappa/templates/template_screens_wide.fla" sourceLibraryItemHRef="Global/Screen layouts/quiz elements/answer_multi" sourceLastModified="1196285074" lastModified="1305298485" lastUniqueIdentifier="7" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="answer_multi">
+      <layers>
+        <DOMLayer name="radiobutton_mc" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton_mc" centerPoint3DX="15" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="answer_txt" color="#FFFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/screen layout elements/set_textbox_quizmulti" name="answertxt_mc" selected="true" centerPoint3DX="297.55" centerPoint3DY="21.55">
+                  <matrix>
+                    <Matrix tx="40" ty="3.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250.05" y="11.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

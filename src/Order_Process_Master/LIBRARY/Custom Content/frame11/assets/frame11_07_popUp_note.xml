@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/frame11_07_popUp_note" itemID="4e84ba35-00000b3a" lastModified="1317321412" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="frame11_07_popUp_note">
+      <layers>
+        <DOMLayer name="popUp" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/calloutBox_with_shdw" centerPoint3DX="179.8" centerPoint3DY="85.9">
+                  <matrix>
+                    <Matrix a="0.889068603515625" d="0.889068603515625" ty="1.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.35" y="94.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="479" height="120.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" tx="42.8" ty="37.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     emember, Allocation occurs 21 days from the request date on the order but the order will never drop to pick. A release is entered into the system which triggers the inventory to pick and then ship.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="18" bitmapSize="360" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="19" height="29.05" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="41.2" ty="33.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>R</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="26" bitmapSize="520" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

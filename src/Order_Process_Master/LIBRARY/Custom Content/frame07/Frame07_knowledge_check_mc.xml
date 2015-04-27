@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/Frame07_knowledge_check_mc" itemID="4e7b983a-00001964" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="Frame07_knowledge_check_mc" lastModified="1321635227" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Frame07_knowledge_check_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/frame07_knowledge_check_content" name="content_mc" selected="true" centerPoint3DX="239.5" centerPoint3DY="285">
+                  <matrix>
+                    <Matrix tx="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

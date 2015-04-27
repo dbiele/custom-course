@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_01_nas_content" itemID="4e84d410-00000e66" lastModified="1319041160" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="frame11_01_nas_content">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="696.95" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="410"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You have selected the National Account Specialist role within New Balance.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame03a/assets/icon_csr_100" centerPoint3DX="421.35" centerPoint3DY="220.95">
+                  <matrix>
+                    <Matrix tx="91.6" ty="27.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="329.75" y="193.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="668.95" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="481"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>This scenario will highlight one example of the order flow process for order Type C.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText width="744.95" height="26.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="552"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Let’s begin!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

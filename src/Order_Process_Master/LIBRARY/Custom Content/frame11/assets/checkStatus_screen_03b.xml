@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/assets/checkStatus_screen_03b" itemID="4e846f6d-00000776" lastModified="1317302266" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="checkStatus_screen_03b">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_blue" centerPoint3DX="399.25" centerPoint3DY="302.55">
+                  <matrix>
+                    <Matrix a="13.116943359375" b="-0.00018310546875" d="0.990158081054688" tx="206.6" ty="249.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.8" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.37890625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0" redOffset="51" blueOffset="51" greenOffset="51"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/check_status_03_ups.png">
+                  <matrix>
+                    <Matrix tx="39.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

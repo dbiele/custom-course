@@ -1,0 +1,156 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/assets/knowledge_check_items" itemID="4e7a427a-000003a8" lastModified="1316696560" lastUniqueIdentifier="35">
+  <timeline>
+    <DOMTimeline name="knowledge_check_items">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="84" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="589" ty="152"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JBA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" selected="true" centerPoint3DX="560" centerPoint3DY="165">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="545" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="133" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="56" ty="152"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>eCOM</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" centerPoint3DX="27" centerPoint3DY="165">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="12" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="104" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="319" ty="152"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B2B</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" centerPoint3DX="290" centerPoint3DY="165">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="275" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="52.95" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="828" ty="152"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="163.2" y="25.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EDI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.05" size="22" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="2" strength="0.3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Screen layouts/quiz elements/radio_button" name="radiobutton3_mc" centerPoint3DX="799" centerPoint3DY="165">
+                  <matrix>
+                    <Matrix a="0.999740600585938" tx="784" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/eCom" centerPoint3DX="92.5" centerPoint3DY="56.2">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="-82" ty="-21.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249.05" y="110.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/b2b" centerPoint3DX="350.1" centerPoint3DY="55.55">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="180.7" ty="-21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="241.8" y="109.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/jba" centerPoint3DX="600.15" centerPoint3DY="50.9">
+                  <matrix>
+                    <Matrix a="0.545623779296875" d="0.545623779296875" tx="507.65" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169.55" y="137.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/assets/edi" centerPoint3DX="839.6" centerPoint3DY="56.7">
+                  <matrix>
+                    <Matrix a="0.690689086914063" d="0.690689086914063" tx="741.35" ty="-17.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.25" y="107.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

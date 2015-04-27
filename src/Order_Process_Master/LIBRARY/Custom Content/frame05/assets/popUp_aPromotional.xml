@@ -1,0 +1,194 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame05/assets/popUp_aPromotional" itemID="4e810691-00000436" lastModified="1318968281">
+  <timeline>
+    <DOMTimeline name="popUp_aPromotional">
+      <layers>
+        <DOMLayer name="labels" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="actions" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn close" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/assets_support/btn_close_pop_up_short" name="close_btn" centerPoint3DX="638.5" centerPoint3DY="11.25">
+                  <matrix>
+                    <Matrix tx="598"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="11.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="txt" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="588" height="19.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>This code is used to order promotional priced product for immediate delivery.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="16" bitmapSize="320" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="68" height="38.7" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="171" ty="158"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>• JBA &#xD;• eCom </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="15" bitmapSize="300" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-8.45" width="44.7" height="89.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="56.75" ty="122.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="80" bitmapSize="1600" face="_Claredon Regular copy*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hr" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="482" height="26.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="32" ty="32"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PROMOTIONAL</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.15" size="24" bitmapSize="480" face="_Gotham Bold*" fillColor="#C82032"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="47.4" height="12.15" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17" ty="128.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CODE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" size="11" bitmapSize="220" face="_Gotham Bold*" fillColor="#707070"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="260" height="19.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="171" ty="128.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ORDER SOURCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="box btm" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E2F1F9"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#EEEEEE"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2873 2364|13337 2364!13337 2364|13337 4315!13337 4315|2873 4315"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!2873 4315|2873 2364"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2873 2364/0 2364!0 2364|0 4315!0 4315|2873 4315"/>
+                    <Edge cubics="!13337 2364(13337,2364;13337,2364 13337,4315 13337,4315q13337 2364 13337 4315)13337,4315;"/>
+                    <Edge cubics="!0 2364(0,2364;0,2364 2873,2364 2873,2364q0 2364 2873 2364);"/>
+                    <Edge cubics="!2873 4315(;2873,4315 0,4315 0,4315q2873 4315 0 4315);"/>
+                    <Edge cubics="!2873 2364(2873,2364;2873,2364 2873,4315 2873,4315q2873 2364 2873 4315)2873,4315;"/>
+                    <Edge cubics="!0 4315(;0,4315 0,2364 0,2364q0 4315 0 2364);"/>
+                    <Edge cubics="!2873 2364(2873,2364;2873,2364 13337,2364 13337,2364q2873 2364 13337 2364)13337,2364;"/>
+                    <Edge cubics="!13337 4315(13337,4315;13337,4315 2873,4315 2873,4315q13337 4315 2873 4315);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Global/Navigation/navigation elements/assets/square" centerPoint3DX="250" centerPoint3DY="258.85">
+                  <matrix>
+                    <Matrix a="133.762115478516" d="41.1659393310547" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.5" y="2.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="20" blurY="20" strength="0.25"/>
+                    <DropShadowFilter angle="90" distance="0" quality="3" strength="0.5"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame02/frame02_content" itemID="4e612092-00000686" lastModified="1321630142">
+  <timeline>
+    <DOMTimeline name="frame02_content">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="655" height="44.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="260.6" y="32.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Balance: Order Process</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-1.95" size="40" face="_Gotham Bold*" fillColor="#2A6786"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="658.95" height="216.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Order processing is a key component of order fulfillment. "Order processing" is the term used to describe the process or work flow from the point of order entry to the selection, packing and delivery of New Balance products to our customers.&#xD;&#xD;In this course, you will learn about the lifecycle of an order through the New Balance order process and how the operational procedures of the distribution centers are determined by many factors.  The approach to order processing will vary, depending on the order type.&#xD;&#xD;Take some time to explore each lesson.  And pay attention; you’ll be asked some questions about the New Balance order process and how it applies to your role within New Balance!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" size="17" bitmapSize="340" face="_Calibri Regular*" fillColor="#0B0B0B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="img" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Custom Content/image_graphics/warehouse_from_above.png">
+                  <matrix>
+                    <Matrix a="-1" tx="1015" ty="141.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="508" y="345"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

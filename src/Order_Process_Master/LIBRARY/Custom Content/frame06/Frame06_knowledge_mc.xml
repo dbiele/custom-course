@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame06/Frame06_knowledge_mc" itemID="4e7a403c-00001592" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="Frame06_knowledge_mc" lastModified="1317152539" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Frame06_knowledge_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame06/Frame06_knowledge_content" name="content_mc" selected="true" centerPoint3DX="231.5" centerPoint3DY="307.35">
+                  <matrix>
+                    <Matrix tx="4.2" ty="-28.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229.4" y="284.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

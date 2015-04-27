@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Global/Screen layouts/screen layout elements/set_textbox_quizmulti" itemID="474ddbab-00001d03" sourceFlashFilepath="../History_101_Master/Projects/Kappa/templates/template_screens_wide.fla" sourceLibraryItemHRef="Global/Screen layouts/screen layout elements/set_textbox_quizmulti" sourceLastModified="1196285081" lastModified="1305310180" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="set_textbox_quizmulti">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textbox" width="404.05" height="72" antiAliasThickness="100" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2.05" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Your answer will display here.  Your answer will display here.  Your answer will display</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="20" bitmapSize="400" face="_Gotham Book*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/Frame11_01_nas_mc" itemID="4e84d42a-00000e70" linkageExportForAS="true" linkageBaseClass="com.invision.SceneContainer" linkageClassName="Frame11_01_nas_mc" lastModified="1317395989" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Frame11_01_nas_mc">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame11/frame11_01_nas_content" name="content_mc" selected="true" centerPoint3DX="491.75" centerPoint3DY="327.05">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

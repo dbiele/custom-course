@@ -1,0 +1,241 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame07/assets/chevron_greyscale" itemID="4e9db87b-000006a8" lastModified="1318959227">
+  <timeline>
+    <DOMTimeline name="chevron_greyscale">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC" alpha="0.250980392156863"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#666666" alpha="0.250980392156863"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!6542 0|8870 0!8870 0|9110 500!9110 500|8870 1000!8870 1000|6542 1000"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!6542 1000|6782 499!6782 499|6542 0!4509 0|4749 499!4749 499|4509 1000"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4509 1000|2255 1000"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!2255 1000|2495 499!2495 499|2255 0"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2255 0|4509 0!4509 0|6542 0!2255 1000|382 1000!382 1000|622 499!622 499|382 0!382 0|2255 0!6542 1000|4509 1000"/>
+                    <Edge cubics="!2255 1000(;2255,1000 382,1000 382,1000q2255 1000 382 1000);"/>
+                    <Edge cubics="!382 1000(;382,1000 622,499 622,499p382 1000q622 499);"/>
+                    <Edge cubics="!622 499(;622,499 382,0 382,0p622 499q382 0);"/>
+                    <Edge cubics="!382 0(;382,0 2255,0 2255,0q382 0 2255 0);"/>
+                    <Edge cubics="!2255 1000(;2255,1000 2495,499 2495,499p2255 1000q2495 499);"/>
+                    <Edge cubics="!2495 499(;2495,499 2255,0 2255,0p2495 499q2255 0);"/>
+                    <Edge cubics="!4509 1000(;4509,1000 4749,499 4749,499p4509 1000q4749 499);"/>
+                    <Edge cubics="!4749 499(;4749,499 4509,0 4509,0p4749 499q4509 0);"/>
+                    <Edge cubics="!4509 1000(;4509,1000 2255,1000 2255,1000q4509 1000 2255 1000);"/>
+                    <Edge cubics="!2255 0(;2255,0 4509,0 4509,0q2255 0 4509 0);"/>
+                    <Edge cubics="!6542 1000(;6542,1000 6782,499 6782,499p6542 1000q6782 499);"/>
+                    <Edge cubics="!6782 499(;6782,499 6542,0 6542,0p6782 499q6542 0);"/>
+                    <Edge cubics="!8870 0(;8870,0 9110,500 9110,500p8870 0q9110 500);"/>
+                    <Edge cubics="!9110 500(;9110,500 8870,1000 8870,1000p9110 500q8870 1000);"/>
+                    <Edge cubics="!6542 1000(;6542,1000 4509,1000 4509,1000q6542 1000 4509 1000);"/>
+                    <Edge cubics="!4509 0(;4509,0 6542,0 6542,0q4509 0 6542 0);"/>
+                    <Edge cubics="!6542 0(;6542,0 8870,0 8870,0q6542 0 8870 0);"/>
+                    <Edge cubics="!8870 1000(;8870,1000 6542,1000 6542,1000q8870 1000 6542 1000);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_truck" centerPoint3DX="390.55" centerPoint3DY="65.85">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="341.65" ty="38.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="279.4" y="156.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_shoeBox" centerPoint3DX="166.15" centerPoint3DY="77.6">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="99.15" ty="40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="382.85" y="210.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_monitorNB" centerPoint3DX="63.4" centerPoint3DY="63.5">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" ty="32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362" y="176"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_arw_circ_point" centerPoint3DX="285.3" centerPoint3DY="67.6">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="234.55" ty="37.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="290" y="170.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="94.5" height="20.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="56.4" ty="9.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BOOKING</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold copy*" fillColor="#CDCDCD"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" centerPoint3DX="45.45" centerPoint3DY="14.65">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="40.35" ty="9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.7" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="150.8" height="39.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="152.4" ty="9.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RESERVATION&#xD;LEAD TIME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold copy*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" centerPoint3DX="141.55" centerPoint3DY="14.9">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="136.35" ty="9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.7" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="150.8" height="39.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="260.4" ty="9.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ALLOCATION&#xD;PICK</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold copy*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" centerPoint3DX="249.55" centerPoint3DY="14.9">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="244.35" ty="9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.7" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="150.8" height="20.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="366.9" ty="9.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SHIPPING</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-0.85" size="18" bitmapSize="360" face="_Gotham Bold copy*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame04/assets/circle_13px WHITE" centerPoint3DX="356.05" centerPoint3DY="14.9">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="350.85" ty="9.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.7" y="29.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_truck" centerPoint3DX="390.55" centerPoint3DY="65.85">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="341.65" ty="38.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="279.4" y="156.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25" redMultiplier="0.53125" blueMultiplier="0.53125" greenMultiplier="0.53125" redOffset="24" blueOffset="24" greenOffset="24"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_shoeBox" centerPoint3DX="166.15" centerPoint3DY="77.6">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="99.15" ty="40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="382.85" y="210.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25" redMultiplier="0.53125" blueMultiplier="0.53125" greenMultiplier="0.53125" redOffset="24" blueOffset="24" greenOffset="24"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_monitorNB" centerPoint3DX="63.4" centerPoint3DY="64.2">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" ty="32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="362" y="176"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25" redMultiplier="0.53125" blueMultiplier="0.53125" greenMultiplier="0.53125" redOffset="24" blueOffset="24" greenOffset="24"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame07/assets/icon_arw_circ_point" centerPoint3DX="285.3" centerPoint3DY="67.6">
+                  <matrix>
+                    <Matrix a="0.175003051757813" d="0.175003051757813" tx="234.55" ty="37.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="290" y="170.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25" redMultiplier="0.53125" blueMultiplier="0.53125" greenMultiplier="0.53125" redOffset="24" blueOffset="24" greenOffset="24"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

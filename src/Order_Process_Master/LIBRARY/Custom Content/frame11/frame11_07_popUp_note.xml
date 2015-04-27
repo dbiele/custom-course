@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/frame11_07_popUp_note" itemID="4edf9d5e-00000343" lastModified="1323277886" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="frame11_07_popUp_note">
+      <layers>
+        <DOMLayer name="popUp" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/calloutBox_with_shdw" selected="true" centerPoint3DX="163.8" centerPoint3DY="78.25">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="1.40936279296875" ty="2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.35" y="94.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="462.25" height="170.7" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.8099365234375" d="0.8099365234375" tx="26.8" ty="40.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Invision placed this firm order because they want to eventually distribute these 1200 pairs to various locations by the request date.  &#xD;&#xD;The contract confirms the order and the release will trigger the distribution of product to various locations based upon the customer’s specifications.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" size="18" bitmapSize="360" face="_Claredon Regular copy*" fillColor="#265C77"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

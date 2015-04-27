@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame11/Frame11_01_nas_end_content" itemID="4e84d756-00001b47" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame11_01_ASR_Content" linkageClassName="Frame11_01_nas_end_content" lastModified="1319041698" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Frame11_01_nas_end_content">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="726.25" height="76.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="380.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Now that you’ve walked through one example of an order flow process within New Balance as a National Account Specialist, let’s review some frequently asked questions.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="22" bitmapSize="440" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText width="744.95" height="50.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="145" ty="482.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>If you would like to see additional examples of the order flow process as an alternate job role, click the button to learn more.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="22" bitmapSize="440" face="_Gotham Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="90" blurX="3" blurY="3" distance="0" quality="3" strength="0.25"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Global/Window - Shared Assets/buttons/btn-learnMore" name="learnmore_btn" centerPoint3DX="174.5" centerPoint3DY="574.95">
+                  <matrix>
+                    <Matrix tx="143" ty="564.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/frame03a/assets/icon_csr_100" centerPoint3DX="421.35" centerPoint3DY="190.95">
+                  <matrix>
+                    <Matrix tx="91.6" ty="-2.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="329.75" y="193.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

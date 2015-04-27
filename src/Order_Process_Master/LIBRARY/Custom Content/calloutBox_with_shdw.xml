@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/calloutBox_with_shdw" itemID="4e77628d-00000542" scaleGridLeft="33" scaleGridRight="485" scaleGridTop="50" scaleGridBottom="121" lastModified="1317053265" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="calloutBox_with_shdw">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Custom Content/mc_callout_box_02" centerPoint3DX="208.8" centerPoint3DY="63.65">
+                  <matrix>
+                    <Matrix a="1.04197692871094" b="-0.043426513671875" c="-0.082000732421875" d="0.98504638671875" tx="17.15" ty="17.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="185.85" y="87.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="25" blurY="25" quality="3"/>
+                    <AdjustColorFilter brightness="100" saturation="-99"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Custom Content/mc_callout_box_02" selected="true" centerPoint3DX="185.5" centerPoint3DY="101.85">
+                  <matrix>
+                    <Matrix ty="14.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="185.65" y="87.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
