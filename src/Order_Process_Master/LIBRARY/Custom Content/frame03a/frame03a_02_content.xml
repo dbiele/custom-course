@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame03a/frame03a_02_content" itemID="4e70e464-00000696" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame03a_02_Content" linkageClassName="frame03a_02_content" lastModified="1323276615" lastUniqueIdentifier="24">
   <timeline>
-    <DOMTimeline name="frame03a_02_content" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;376&lt;/guideline&gt;&lt;/guidelines&gt;'>
+    <DOMTimeline name="frame03a_02_content" currentFrame="52" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;376&lt;/guideline&gt;&lt;/guidelines&gt;'>
       <layers>
         <DOMLayer name="labels" color="#808080" autoNamed="false">
           <frames>

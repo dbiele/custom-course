@@ -13,7 +13,7 @@
           <DOMFolderItem name="Custom Content/frame03/assets" itemID="4e80c218-00000f4c" isExpanded="true"/>
           <DOMFolderItem name="Custom Content/frame03a" itemID="4e60f748-000002ec"/>
           <DOMFolderItem name="Custom Content/frame03a/assets" itemID="4e80c23a-00000f53" isExpanded="true"/>
-          <DOMFolderItem name="Custom Content/frame04" itemID="4e60f7b2-0000030a"/>
+          <DOMFolderItem name="Custom Content/frame04" itemID="4e60f7b2-0000030a" isExpanded="true"/>
           <DOMFolderItem name="Custom Content/frame04/assets" itemID="4e710519-00001736" isExpanded="true"/>
           <DOMFolderItem name="Custom Content/frame04/frame04_assets" itemID="4dc2b875-00006d11"/>
           <DOMFolderItem name="Custom Content/frame04/present" itemID="4e809554-00000cf3"/>
@@ -293,7 +293,7 @@
           <Include href="Custom Content/frame04/frame04_02_content.xml" loadImmediate="false" itemID="4e70e8be-000007af" lastModified="1319035295"/>
           <Include href="Custom Content/frame04/Frame04_02_mc.xml" itemID="4e70e8a4-0000079d" lastModified="1316790672"/>
           <Include href="Custom Content/frame04/frame04_03_content.xml" itemID="4e70e8c7-000007c0" lastModified="1321648397"/>
-          <Include href="Custom Content/frame04/Frame04_03_mc.xml" itemID="4e70e89b-0000079c" lastModified="1316790693"/>
+          <Include href="Custom Content/frame04/Frame04_03_mc.xml" itemID="4e70e89b-0000079c" lastModified="1430151882"/>
           <Include href="Custom Content/frame04/present/present_pic_01a.xml" loadImmediate="false" itemID="4e9db87a-0000064d" lastModified="1318959226"/>
           <Include href="Custom Content/frame04/timeline_assets/circle_13px.xml" loadImmediate="false" itemID="4ea03c4a-0000094c" lastModified="1306976109"/>
           <Include href="Custom Content/frame04/timeline_assets/circle_simple.xml" loadImmediate="false" itemID="4ea03c4a-0000094d" lastModified="1305205936"/>
@@ -753,7 +753,7 @@
           <Include href="Global/Window - Shared Assets/other/blank_mc.xml" loadImmediate="false" itemID="4dc29ce0-00006c3f" lastModified="1307051437"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="11">
+          <DOMTimeline name="Scene 1" currentFrame="1">
                <layers>
                     <DOMLayer name="custom content" color="#4FFFFF" locked="true" autoNamed="false">
                          <frames>
@@ -798,33 +798,18 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="content" color="#FF4FFF" autoNamed="false">
+                    <DOMLayer name="content" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="1" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Custom Content/frame01/Frame01_mc" centerPoint3DX="123" centerPoint3DY="235">
+                                        <DOMSymbolInstance libraryItemName="Custom Content/frame01/Frame01_mc" selected="true" centerPoint3DX="123" centerPoint3DY="235">
                                              <transformationPoint>
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMComponentInstance libraryItemName="Global/Navigation/MainMenu Outline/menu elements/lesson_item" centerPoint3DX="748.55" centerPoint3DY="452.5" uniqueID="5">
-                                             <matrix>
-                                                  <Matrix tx="616.05" ty="440"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="132.5" y="12.5"/>
-                                             </transformationPoint>
-                                             <dataBindingXML><![CDATA[<component metaDataFetched='true' schemaUrl='' schemaOperation='' sceneRootLabel='Scene 1' oldCopiedComponentPath='5'>
-</component>
-]]></dataBindingXML>
-                                             <parametersAsXML><![CDATA[   <property id="varName">
-      <Inspectable name="varName" variable="varName" category="" verbose="0" defaultValue="defaultValue" type="Default"/>
-   </property>
-]]></parametersAsXML>
-                                        </DOMComponentInstance>
                                    </elements>
                               </DOMFrame>
                               <DOMFrame index="2" keyMode="9728">
@@ -889,7 +874,7 @@
                               </DOMFrame>
                               <DOMFrame index="10" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Custom Content/frame04/Frame04_03_mc" centerPoint3DX="472.45" centerPoint3DY="218.45">
+                                        <DOMSymbolInstance libraryItemName="Custom Content/frame04/Frame04_03_mc" selected="true" centerPoint3DX="472.45" centerPoint3DY="218.45">
                                              <transformationPoint>
                                                   <Point x="472.45" y="218.45"/>
                                              </transformationPoint>
@@ -914,7 +899,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="background" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="background" color="#4FFF4F" locked="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="12" keyMode="9728">
                                    <elements>

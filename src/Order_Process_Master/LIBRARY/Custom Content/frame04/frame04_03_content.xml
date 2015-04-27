@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Custom Content/frame04/frame04_03_content" itemID="4e70e8c7-000007c0" linkageExportForAS="true" linkageBaseClass="com.invision.client.movies.Frame04_03_Content" linkageClassName="frame04_03_content" lastModified="1321648397" lastUniqueIdentifier="46">
   <timeline>
-    <DOMTimeline name="frame04_03_content" currentFrame="19">
+    <DOMTimeline name="frame04_03_content">
       <layers>
         <DOMLayer name="labels" color="#4FFFFF" autoNamed="false">
           <frames>
@@ -9,7 +9,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="actions" color="#FF800A" autoNamed="false">
+        <DOMLayer name="actions" color="#FF800A" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="19" keyMode="9728">
               <elements/>
@@ -32,7 +32,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="hit area" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="hit area" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" duration="19" keyMode="9728">
               <elements/>
